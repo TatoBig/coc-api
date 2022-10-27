@@ -1,0 +1,26 @@
+{
+  tag: '#2YRC20JPJ',
+  name: '_Oy Sas_',
+  type: 'open',
+  location: { id: 32000006, name: 'International', isCountry: false },
+  clanLevel: 4,
+  clanPoints: 6513,
+  clanVersusPoints: 8264,
+  requiredTrophies: 400,
+  warFrequency: 'always',
+  warWinStreak: 1,
+  warWins: 24,
+  warTies: 1,
+  warLosses: 47,
+  isWarLogPublic: true,
+  warLeague: { id: 48000005, name: 'Silver League II' },
+  members: 14,
+  labels: [
+    { id: 56000000, name: 'Clan Wars', iconUrls: [Object] },
+    { id: 56000010, name: 'Friendly', iconUrls: [Object] },
+    { id: 56000015, name: 'Newbie Friendly', iconUrls: [Object] }
+  ],
+  requiredVersusTrophies: 400,
+  requiredTownhallLevel: 4,
+  chatLanguage: { id: 75000012, name: 'Pусский', languageCode: 'RU' }
+}

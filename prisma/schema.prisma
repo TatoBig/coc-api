@@ -10,8 +10,19 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-model User {
-  id    Int     @id @default(autoincrement())
-  email String  @unique
-  name  String?
+model Clan {
+  id                Int    @id @default(autoincrement())
+  tag               String @unique
+  type              String?
+  location          String?
+  clan_level        Int?
+  clan_points       Int?
+  clan_v_points     Int?
+  required_trophies Int?
+  war_frequency     String?
+  war_win_streak    Int?
+  war_wins          Int?
+  war_league        String?
+  members           Int?
+  chat_language     String?
 }

@@ -1,0 +1,833 @@
+id,tag,type,location,clan_level,clan_points,clan_v_points,required_trophies,war_frequency,war_win_streak,war_wins,war_league,members,chat_language
+2,#2PRVJPJRY,closed,,5,9687,4682,0,always,0,0,Crystal League III,13,Español
+3,#2Q9J2CYYY,inviteOnly,,1,5958,6581,0,always,0,0,Unranked,6,
+4,#YJ2JLRRP,closed,Philippines,13,9870,10686,2500,always,1,450,Silver League I,19,
+5,#2YRC20JPJ,open,International,4,6513,8264,400,always,1,24,Silver League II,14,Pусский
+6,#2QLPRRCY2,inviteOnly,International,3,9657,11250,1800,always,0,13,Unranked,15,Bahasa Indonesia
+7,#22QUUQ9L8,inviteOnly,Iran,2,8989,11250,0,always,0,9,Unranked,13,فارسی
+8,#P90R028Y,closed,Iran,7,8497,11043,0,always,0,108,Unranked,10,
+9,#2Q9LYPPGP,inviteOnly,Indonesia,4,9120,7330,0,always,1,25,Unranked,5,Bahasa Indonesia
+10,#2Q2Q820J0,inviteOnly,,2,8708,8846,0,always,0,3,Gold League II,13,
+11,#2Y9YLGRUU,inviteOnly,International,4,6047,4919,3000,always,1,37,Unranked,6,فارسی
+12,#2G0P8CRUV,open,India,2,8706,7933,2000,always,0,7,Silver League I,12,English
+13,#2QJC8RY2Q,inviteOnly,India,4,13009,15070,1000,always,0,11,Silver League I,19,English
+14,#2QUJP9C0G,inviteOnly,Cambodia,2,4610,5249,0,always,0,5,Unranked,5,English
+15,#2QP8VVGRJ,inviteOnly,,5,13500,14166,0,always,2,22,Silver League I,22,
+16,#2P89PG9VJ,inviteOnly,Indonesia,2,4178,3583,1200,always,0,5,Silver League II,6,Bahasa Indonesia
+17,#2PCRCGLCG,closed,,4,8655,12184,1000,always,0,15,Silver League II,14,
+18,#2Q8U80VUG,inviteOnly,Turkmenistan,1,5621,6702,0,always,0,0,Unranked,11,Türkçe
+19,#2QRGLJCGP,inviteOnly,International,2,6596,5963,600,always,0,6,Unranked,8,English
+20,#2LVP80JCQ,closed,Indonesia,1,9245,6617,2500,always,0,1,Unranked,10,Bahasa Indonesia
+21,#2LQCRCG0C,inviteOnly,India,3,12491,12699,0,always,3,17,Unranked,17,English
+22,#29989LCLV,inviteOnly,Germany,3,7067,6427,0,always,0,19,Unranked,12,
+23,#2Q0VU228G,closed,Malaysia,4,12109,5494,0,always,0,14,Gold League II,13,Bahasa Melayu
+24,#2QC20YYJY,closed,Philippines,7,20491,15958,5500,always,5,40,Gold League II,37,English
+25,#2QGRG0YGV,inviteOnly,India,1,4904,5035,0,always,0,0,Unranked,6,English
+26,#2QRULR292,open,Russia,4,12687,15542,1200,always,0,14,Silver League III,21,Pусский
+27,#2YQ0UUJ0L,inviteOnly,Algeria,1,1086,870,0,always,0,2,Unranked,14,
+28,#2G0QUGPGJ,open,International,2,26311,25015,2500,always,0,2,Unranked,30,
+29,#2LPR222VU,closed,Indonesia,4,11847,10205,0,always,0,45,Unranked,12,
+30,#2QP0GC0L8,inviteOnly,,2,8286,11229,0,always,0,5,Unranked,15,
+31,#2QJLGUL8G,inviteOnly,Indonesia,3,7604,5355,1200,always,3,22,Unranked,8,Bahasa Indonesia
+32,#2LJ2L2QGY,inviteOnly,Georgia,2,7876,7316,0,always,0,8,Unranked,13,English
+33,#2QQULGRY9,inviteOnly,,1,2416,2319,200,always,0,1,Unranked,6,
+34,#PL000PJ2,inviteOnly,Lebanon,19,39230,39790,0,always,0,289,Master League II,44,English
+35,#2QQQJ9R99,inviteOnly,Malaysia,2,6450,7002,0,always,1,12,Unranked,12,Bahasa Melayu
+36,#2LL8089LC,inviteOnly,Indonesia,2,2344,1472,4000,always,0,5,Unranked,5,Bahasa Indonesia
+37,#2898G2YUQ,inviteOnly,Indonesia,8,15942,17071,0,always,1,85,Gold League III,23,
+38,#2QL9VV0GQ,inviteOnly,Pakistan,2,7631,7845,0,always,2,7,Unranked,10,English
+39,#2Q9G0QY2V,inviteOnly,India,5,10330,11448,0,always,0,30,Silver League II,17,
+40,#2Q2J2YQCL,closed,Malaysia,1,9212,9221,1000,always,0,2,Unranked,10,Bahasa Melayu
+41,#2LYVJ29VR,closed,International,5,12401,13323,3000,always,0,24,Gold League III,17,English
+42,#2LJ2J0LUQ,inviteOnly,International,2,11620,9843,400,always,0,2,Unranked,12,English
+43,#YYQU2R2Y,inviteOnly,Indonesia,3,9559,3436,2000,always,0,7,Silver League II,5,
+44,#28VCVU8GJ,inviteOnly,Iran,1,7251,8958,1700,always,0,0,Unranked,5,
+45,#2YVR8YLQ9,open,International,4,9433,8998,0,always,0,19,Gold League III,16,فارسی
+46,#YRPQY9GU,inviteOnly,Indonesia,9,15179,14515,1500,always,0,124,Unranked,16,
+47,#2YG0QUJ2R,inviteOnly,Philippines,3,7724,8679,0,always,0,13,Unranked,12,English
+48,#2L88PR2JV,open,India,2,8848,7944,1400,always,0,6,Unranked,12,
+49,#2R220VUQ,closed,Indonesia,8,8074,6562,800,always,2,90,Gold League I,8,Bahasa Indonesia
+50,#29YVP2YLU,inviteOnly,Sri Lanka,6,15936,14366,0,always,1,32,Gold League III,21,
+51,#2QCJUVCCU,open,International,3,13930,15200,1400,always,0,16,Unranked,13,English
+52,#UJQCGYPR,inviteOnly,India,5,9565,10031,1000,always,0,56,Unranked,16,English
+53,#VJ2L98YJ,closed,Russia,5,10304,13885,1000,always,0,0,Unranked,7,Pусский
+54,#2YJYV99U8,open,International,1,7105,8051,0,always,1,2,Silver League I,11,Bahasa Indonesia
+55,#2YRLVJU8Q,closed,Indonesia,6,12005,12578,0,always,0,41,Silver League III,17,Bahasa Indonesia
+56,#2Q822JLRV,closed,Iran,2,4168,4411,0,always,1,6,Unranked,7,فارسی
+57,#2QRQ09LJ9,closed,Sri Lanka,2,2566,3958,0,always,0,11,Unranked,5,English
+58,#2LCULPGQL,closed,Philippines,3,4438,3688,0,always,1,13,Silver League II,6,
+59,#2LVJ2P2RQ,open,International,6,21595,24024,1100,always,0,24,Gold League III,43,Pусский
+60,#2QQVYJ8Q9,inviteOnly,,1,3397,2102,200,always,1,1,Unranked,5,
+61,#200GGRJQ,inviteOnly,Indonesia,15,20455,17766,0,always,0,296,Crystal League II,22,Bahasa Indonesia
+62,#Y0U98YUY,inviteOnly,Indonesia,9,16886,17129,1000,always,5,143,Unranked,17,English
+63,#2P2QCJ8QJ,inviteOnly,Iran,6,15159,13709,1200,always,3,42,Gold League III,11,
+64,#2QRCV2U2G,inviteOnly,Iran,4,8685,8150,0,always,8,43,Unranked,12,فارسی
+65,#2QRG0GPJJ,inviteOnly,,4,10773,8846,0,always,0,44,Unranked,10,
+66,#2Q0V92C28,open,Indonesia,4,12781,13939,0,always,1,17,Gold League II,17,Bahasa Indonesia
+67,#2LGLRUGC8,inviteOnly,International,7,17486,17535,0,always,0,34,Gold League II,28,English
+68,#2LUJL99GG,inviteOnly,France,8,9940,9913,400,always,1,26,Crystal League I,12,Français
+69,#2QUVQ29UU,closed,International,3,7521,6111,0,always,2,14,Unranked,6,English
+70,#U9YQQJ00,closed,International,8,14062,14010,0,always,0,109,Silver League I,40,
+71,#LCR20RJJ,closed,Philippines,14,17403,17088,4200,always,0,284,Gold League I,26,
+72,#P0PJQQJ0,closed,International,17,25528,26532,4500,always,2,259,Crystal League I,33,
+73,#L8UGVRY2,open,Bangladesh,16,27750,26353,0,always,0,240,Gold League I,38,English
+74,#2G09ULPLJ,closed,International,2,4695,5981,0,always,0,4,Unranked,8,Bahasa Melayu
+75,#2QVLVJV9Y,inviteOnly,Philippines,3,7220,3167,0,always,0,4,Silver League I,15,English
+76,#U8892LL2,closed,International,5,11372,14950,0,always,2,43,Silver League I,23,Bahasa Indonesia
+77,#2QL8RP020,inviteOnly,Colombia,2,3240,4471,0,always,0,4,Unranked,5,Español
+78,#2G0L2PLQP,closed,Iran,2,4805,5174,0,always,1,4,Unranked,6,فارسی
+79,#2Q00PUCYU,inviteOnly,Bhutan,8,18186,17070,0,always,0,68,Gold League III,22,English
+80,#UCCGJJGU,inviteOnly,Bangladesh,10,14488,19192,2000,always,1,146,Silver League II,22,
+81,#2QUVJGY2U,open,International,3,9953,12125,1000,always,0,15,Unranked,20,فارسی
+82,#2G8PU00YP,open,International,2,7500,9048,200,always,0,3,Unranked,12,فارسی
+83,#28GRGYJVQ,inviteOnly,India,5,5964,6259,3000,always,12,68,Unranked,5,English
+84,#2QL0P09UU,open,International,2,11778,12006,600,always,0,5,Unranked,26,English
+85,#PV208GG0,inviteOnly,Canada,8,11304,13569,0,always,0,58,Silver League III,18,
+86,#2YV2Y98GC,closed,Philippines,9,9366,9913,200,always,1,139,Silver League III,12,
+87,#2YQV8C9QQ,inviteOnly,Philippines,2,2692,962,0,always,1,7,Unranked,7,English
+88,#2QU08YJPY,open,International,6,25181,24602,1700,always,1,33,Gold League I,39,English
+89,#2Q8298GR8,inviteOnly,Iran,3,6496,5182,1000,always,0,17,Unranked,11,فارسی
+90,#2YVY82Q09,inviteOnly,,2,3364,4564,0,always,0,7,Unranked,5,
+91,#LJ9YG2L2,inviteOnly,India,7,7268,6378,800,always,4,85,Unranked,9,
+92,#289PC0P0Q,inviteOnly,International,9,9378,11511,1500,always,1,212,Silver League I,11,فارسی
+93,#2Y0UVRY2C,closed,International,5,9971,9644,1500,always,5,39,Gold League III,10,English
+94,#2YCGR800G,open,Vietnam,5,5521,4092,400,always,0,25,Silver League I,5,Tiếng Việt
+95,#JQUV0R9U,inviteOnly,Türkiye,11,18023,17424,200,always,1,280,Silver League I,28,Türkçe
+96,#2QL2PLL0R,inviteOnly,Türkiye,4,7218,7786,0,always,1,25,Unranked,6,Türkçe
+97,#228YRJV9V,inviteOnly,France,5,9975,9263,0,always,0,43,Silver League III,6,
+98,#2LY2GRP00,inviteOnly,Panama,8,7250,9912,800,always,5,164,Silver League II,13,Español
+99,#2YJ92GY0U,inviteOnly,Germany,3,5200,4078,0,always,0,12,Unranked,6,Deutsch
+100,#29LRQ020R,open,Italy,13,24233,24899,600,always,14,130,Gold League I,50,Italiano
+101,#2LQY20Y2V,inviteOnly,Bangladesh,5,25753,24568,1600,always,0,17,Gold League I,32,
+102,#2G0G8PYL8,open,India,2,11057,9817,0,always,8,8,Unranked,15,English
+103,#29CJLQR0Q,inviteOnly,International,8,7000,5061,0,always,0,65,Gold League II,17,Español
+104,#2L02QQQC9,closed,Philippines,5,16713,16320,0,always,0,23,Gold League III,35,English
+105,#8CJ0CQQG,inviteOnly,Greece,7,7590,8060,0,always,1,105,Silver League III,7,
+106,#2QL8C00UP,inviteOnly,,6,14096,13985,200,always,0,43,Gold League I,19,
+107,#2QVRQJY2G,closed,Chile,2,2094,137,0,always,3,5,Unranked,5,Español
+108,#2Q28VYVQG,inviteOnly,Philippines,3,7705,7887,0,always,5,17,Unranked,10,English
+109,#2Q9QGC0QJ,inviteOnly,Philippines,2,11807,11165,0,always,1,7,Unranked,16,English
+110,#2PP0Q9C8G,inviteOnly,Myanmar (Burma),5,6540,6771,600,always,4,63,Unranked,6,
+111,#2QL0CQ0LJ,inviteOnly,Indonesia,3,5874,7336,0,always,0,18,Unranked,6,Bahasa Indonesia
+112,#2YQQCLJPV,open,,4,8588,8351,800,always,1,24,Silver League II,11,
+113,#JLUJ0Q89,inviteOnly,India,12,15422,15979,0,always,1,269,Gold League II,20,English
+114,#G099RYPY,closed,India,12,10322,14428,1000,always,1,157,Crystal League III,12,
+115,#92P20UJ,inviteOnly,Somalia,12,5099,263,5200,always,2,266,Unranked,5,
+116,#29VVYU2QU,closed,Indonesia,6,15234,8438,1100,always,9,9,Crystal League I,16,
+117,#2Q8RQVQPR,inviteOnly,International,1,8093,8064,200,always,0,2,Unranked,10,فارسی
+118,#Y9Q8UQV0,inviteOnly,Bulgaria,11,12015,12754,2000,always,0,184,Bronze League I,14,
+119,#2Q89YYPGQ,closed,International,4,3573,3802,0,always,0,39,Unranked,5,Bahasa Indonesia
+120,#2Q02QC0R8,inviteOnly,Malaysia,5,13245,10764,2000,always,0,44,Unranked,8,English
+121,#2Q0P2QYL9,inviteOnly,Indonesia,3,6707,4792,1000,always,1,19,Unranked,8,Bahasa Indonesia
+122,#2YQCLY2VC,inviteOnly,India,2,10629,12704,1000,always,3,8,Unranked,13,English
+123,#2LRG9RJV9,inviteOnly,Philippines,3,7192,7694,0,always,0,14,Silver League I,13,English
+124,#2YC8YPV98,inviteOnly,International,2,1747,1400,0,always,0,9,Unranked,5,English
+125,#U2GJ8Y9G,inviteOnly,Philippines,5,10156,10790,1300,always,1,35,Unranked,11,
+126,#QVLVCLUG,inviteOnly,Bangladesh,8,13280,12471,4300,always,0,131,Silver League I,25,
+127,#2LPJ28QGC,inviteOnly,International,3,4580,3371,0,always,2,23,Unranked,6,English
+128,#2YGVUQVVR,inviteOnly,International,6,5658,6074,0,always,0,84,Unranked,11,English
+129,#2YVL8UPRG,open,Turkmenistan,2,4699,6006,400,always,0,3,Unranked,14,Türkçe
+130,#JGPU2U9Q,closed,Philippines,20,19374,20671,0,always,1,321,Crystal League III,27,
+131,#2L8CY0QRQ,inviteOnly,Bangladesh,2,11622,11959,0,always,0,6,Unranked,15,English
+132,#2YCR8GYR9,inviteOnly,United Kingdom,5,10944,13166,0,always,1,29,Silver League I,20,English
+133,#2L2LJVUUJ,inviteOnly,Indonesia,4,9968,9314,1400,always,0,18,Unranked,12,Bahasa Indonesia
+134,#2QYVPY8VJ,open,,2,6148,5746,600,always,1,6,Unranked,10,
+135,#Q88YJJ98,closed,International,8,10632,9081,0,always,0,75,Gold League II,15,
+136,#2P8GR98RR,closed,Philippines,6,8962,6386,5500,always,1,78,Unranked,13,English
+137,#2QQ9YQ9JQ,inviteOnly,India,3,9143,9587,400,always,0,14,Unranked,9,English
+138,#2YYJJJQCC,open,,6,10014,10501,0,always,0,37,Silver League I,12,English
+139,#2QVVCR8YC,inviteOnly,Indonesia,2,4589,3260,0,always,0,7,Unranked,8,Bahasa Indonesia
+140,#2QJPGQ9UJ,inviteOnly,Malaysia,2,4795,4980,0,always,2,11,Unranked,5,Bahasa Melayu
+141,#2LU8J2VP8,closed,Indonesia,4,11828,14125,1400,always,1,16,Unranked,15,Bahasa Indonesia
+142,#2QL8CLYRY,closed,Philippines,3,6312,5687,0,always,0,20,Unranked,11,English
+143,#2PQGVCQGP,closed,Malaysia,4,6426,1260,600,always,6,16,Silver League II,12,Bahasa Melayu
+144,#2YR2LUGJ0,inviteOnly,Indonesia,2,5617,8225,800,always,0,7,Unranked,10,Bahasa Indonesia
+145,#JLUYPCVJ,inviteOnly,Myanmar (Burma),10,14354,15277,5500,always,0,167,Silver League I,27,
+146,#CG8R9UV,closed,International,8,10383,11183,0,always,1,125,Silver League I,23,
+147,#2L0Y8J82C,open,International,4,19096,18361,1400,always,0,10,Gold League I,26,English
+148,#2G9G0PUP2,inviteOnly,Indonesia,1,8809,9617,0,always,1,2,Unranked,12,Bahasa Indonesia
+149,#2LRQ9CQG9,inviteOnly,,3,4997,5610,0,always,1,26,Unranked,6,
+150,#2LLYYGV89,open,International,5,16281,16258,800,always,0,23,Gold League III,24,English
+151,#2PYPU9UQP,inviteOnly,Brunei,6,9046,9254,0,always,0,55,Silver League I,15,
+152,#2LRLPVLYV,inviteOnly,International,2,13464,11992,2500,always,1,3,Unranked,14,
+153,#P9GGLPGJ,inviteOnly,Australia,10,7672,6759,2600,always,1,180,Unranked,5,English
+154,#YUYPYQ2J,inviteOnly,Indonesia,11,11759,10563,3000,always,0,212,Gold League III,11,Bahasa Indonesia
+155,#2LYPUQURL,inviteOnly,International,4,6937,8018,0,always,0,26,Silver League I,12,فارسی
+156,#2Q2JV0LYC,inviteOnly,Philippines,6,15813,16330,800,always,1,50,Gold League III,20,English
+157,#2LR0JCRLP,closed,Philippines,2,14554,9815,5500,always,0,1,Crystal League II,13,English
+158,#2QGLGGP0L,closed,Philippines,1,8323,7170,0,always,1,2,Unranked,10,English
+159,#2Q2GGQR0R,closed,Saudi Arabia,4,4165,823,0,always,0,24,Silver League I,10,العربية
+160,#2QQ8LYU20,inviteOnly,India,3,12527,11997,200,always,0,12,Unranked,13,English
+161,#LYJC2L82,inviteOnly,Honduras,15,18991,15550,400,always,0,278,Crystal League I,19,
+162,#2LYCVP829,closed,,7,13307,9668,0,always,0,40,Gold League II,50,
+163,#RLPJ0QCY,inviteOnly,India,9,13352,13551,200,always,0,136,Silver League II,25,
+164,#YJ8LCY8C,inviteOnly,Indonesia,15,32949,30264,1000,always,3,269,Crystal League I,31,Bahasa Indonesia
+165,#2L20L82YY,inviteOnly,Syria,11,18884,19340,1000,always,22,77,Master League I,11,العربية
+166,#2QG98JL9G,inviteOnly,,2,14335,15905,1400,always,0,3,Unranked,20,
+167,#2LGLQ0JVC,closed,Russia,11,29200,27952,3000,always,0,74,Gold League I,38,Pусский
+168,#8GCPYL22,inviteOnly,New Zealand,18,23959,19524,400,always,0,468,Crystal League II,31,English
+169,#2QGU9PYYR,inviteOnly,,2,4629,5810,1000,always,0,7,Unranked,6,
+170,#2QQ2002YJ,inviteOnly,Myanmar (Burma),2,3775,4204,600,always,0,6,Unranked,5,English
+171,#2PGUC28U9,inviteOnly,International,3,5321,4811,0,always,0,10,Silver League III,10,
+172,#2QQ8JCGJ2,closed,,2,5235,3306,0,always,0,3,Unranked,5,Bahasa Indonesia
+173,#QP8UCYQY,inviteOnly,Indonesia,8,8169,4807,0,always,2,113,Bronze League I,13,
+174,#2PVRR0Q2J,inviteOnly,Philippines,8,10823,13253,1500,always,1,37,Gold League II,12,
+175,#2QLGCPPC9,inviteOnly,Philippines,3,3486,2668,1200,always,1,18,Unranked,5,English
+176,#P8QJQ8GQ,inviteOnly,India,12,13283,14301,0,always,3,261,Silver League I,15,
+177,#JLQJ9CY8,closed,Pakistan,11,4381,1868,0,always,7,154,Gold League I,12,English
+178,#2QR2UQ9QJ,inviteOnly,Indonesia,6,11570,10644,1000,always,1,58,Gold League III,14,Bahasa Indonesia
+179,#20PL0R2,inviteOnly,International,4,14534,13866,0,always,0,37,Unranked,15,
+180,#2LQCVV0GC,open,International,3,10202,11923,0,always,0,21,Unranked,25,فارسی
+181,#2QVPRYGCU,open,Indonesia,3,3783,4211,1500,always,0,12,Unranked,5,Bahasa Indonesia
+182,#2PYYP89UJ,closed,Indonesia,3,7215,5625,1000,always,0,22,Unranked,5,Bahasa Indonesia
+183,#2QQ999QGQ,closed,,2,2290,1649,0,always,0,3,Unranked,5,
+184,#2YYPJ20VJ,closed,International,5,5905,4270,0,always,1,27,Gold League II,5,English
+185,#L22PGQJR,closed,Indonesia,19,17554,17605,5500,always,5,610,Gold League III,30,
+186,#U0PRRJ2V,closed,British Virgin Islands,9,6059,4209,2000,always,2,197,Unranked,5,
+187,#2G09YQ2QP,closed,Philippines,2,4586,2967,0,always,0,5,Unranked,5,English
+188,#V2LRY2QQ,inviteOnly,Iran,11,24298,27995,0,always,0,86,Gold League II,34,
+189,#2YRCJJP02,inviteOnly,Iran,3,8991,8477,1000,always,0,13,Gold League III,10,فارسی
+190,#2P8GCVUJY,inviteOnly,Indonesia,7,18147,18619,2000,always,5,72,Gold League II,18,
+191,#29QVPYQRR,inviteOnly,Indonesia,4,8830,11302,1100,always,0,37,Unranked,11,Bahasa Indonesia
+192,#2Q2U9Y0P0,inviteOnly,Philippines,4,13086,13843,400,always,1,28,Gold League III,23,English
+193,#2LVQYRR2U,inviteOnly,Philippines,2,6596,5196,1000,always,0,7,Unranked,6,English
+194,#2YUYL8GGL,inviteOnly,Philippines,6,8506,5385,0,always,1,54,Silver League II,11,English
+195,#2QR2L89QP,inviteOnly,Indonesia,2,5510,2973,200,always,0,13,Unranked,8,Bahasa Indonesia
+196,#2LV8J99P,closed,Philippines,17,22284,17185,5000,always,0,376,Crystal League II,21,
+197,#2QJCVUQC2,open,Türkiye,3,10885,10364,0,always,0,11,Unranked,13,Türkçe
+198,#RVUYGL82,closed,Philippines,12,23256,22812,0,always,0,176,Gold League II,36,English
+199,#2LPQ2YRG9,inviteOnly,Philippines,4,8893,6590,0,always,0,21,Silver League II,12,English
+200,#2G00UCC2J,inviteOnly,,2,9285,9750,0,always,1,7,Unranked,16,
+201,#UGUVC8G0,inviteOnly,Philippines,10,9873,10701,0,always,0,138,Silver League II,11,English
+202,#2YLUCVQQU,closed,Indonesia,2,3486,5448,0,always,0,4,Unranked,10,Bahasa Indonesia
+203,#2QU2PG9LJ,closed,Philippines,4,9591,11183,2500,always,5,27,Gold League III,13,
+204,#2LRVULQPP,open,,2,9650,11221,0,always,0,5,Unranked,23,
+205,#2LVLRL0UJ,inviteOnly,India,6,12130,14043,0,always,1,86,Unranked,12,English
+206,#V00YYGVP,closed,Nepal,11,10010,8175,5000,always,1,136,Gold League II,10,English
+207,#2Y2VCQLUV,inviteOnly,International,4,11952,13967,0,always,0,29,Bronze League I,19,Bahasa Indonesia
+208,#29RY8JPJQ,inviteOnly,Indonesia,7,15309,17424,1800,always,0,21,Gold League III,13,
+209,#CL8CCY0U,inviteOnly,Indonesia,6,9172,9051,0,always,0,45,Silver League III,10,Bahasa Indonesia
+210,#2QPQUJC2J,inviteOnly,Türkiye,2,4875,5113,0,always,0,6,Unranked,9,
+211,#222LC2LP0,inviteOnly,,7,7387,8407,0,always,0,104,Silver League II,12,
+212,#88GUVL8G,inviteOnly,International,9,15407,10337,0,always,0,141,Gold League III,15,
+213,#LC0UYP0L,closed,Indonesia,7,6821,5784,5100,always,1,108,Silver League I,6,Bahasa Indonesia
+214,#89GY908R,inviteOnly,Gibraltar,10,11789,13029,1100,always,1,211,Gold League III,16,English
+215,#2G89U0P2U,inviteOnly,Bangladesh,2,9232,7136,0,always,0,7,Unranked,12,English
+216,#G2RU8URJ,inviteOnly,Myanmar (Burma),7,11049,11284,800,always,0,71,Unranked,11,
+217,#RJ20RPCG,inviteOnly,Myanmar (Burma),4,10582,12239,0,always,2,21,Silver League II,15,
+218,#2QPC9JVCY,inviteOnly,,3,2575,2490,200,always,3,13,Unranked,5,
+219,#2PGG22VJ9,inviteOnly,Myanmar (Burma),3,9216,8707,0,always,1,14,Unranked,14,English
+220,#28YY00RRV,closed,Philippines,11,8075,5383,0,always,0,225,Unranked,6,
+221,#2QYY9CY92,inviteOnly,Indonesia,3,11436,10834,1000,always,1,23,Unranked,16,Bahasa Indonesia
+222,#2G0PJY98C,inviteOnly,India,1,3836,3719,0,always,0,2,Unranked,5,English
+223,#2LRPRYQ0Y,inviteOnly,Indonesia,2,3721,2436,2000,always,0,7,Unranked,5,Bahasa Indonesia
+224,#2QYPQQ0G,closed,Finland,10,10522,496,200,always,0,171,Unranked,10,
+225,#2QLRQLRUU,closed,India,2,6850,9172,400,always,5,12,Unranked,14,English
+226,#ULC8CRPJ,closed,Indonesia,14,8783,6261,0,always,0,164,Gold League I,10,Bahasa Indonesia
+227,#LULPCCGQ,closed,International,16,15512,14854,2200,always,3,541,Unranked,11,
+228,#2YVGU0RUG,inviteOnly,France,3,8864,4706,1200,always,9,9,Gold League I,10,Français
+229,#2YJ8V0GU0,inviteOnly,Sri Lanka,4,8430,8882,0,always,0,22,Gold League III,13,English
+230,#28RR2JY2R,closed,,5,8391,8249,0,always,9,40,Silver League I,15,
+231,#2P8JJVR92,closed,International,9,7478,7191,0,always,0,60,Gold League II,10,Español
+232,#QV0PGVCC,closed,Indonesia,8,12487,11081,0,always,2,102,Unranked,12,Bahasa Indonesia
+233,#2Y922JR20,inviteOnly,Indonesia,7,11451,8317,1000,always,0,82,Unranked,11,Bahasa Indonesia
+234,#2LR8V9P2U,closed,Mexico,8,11677,10633,0,always,0,115,Unranked,9,Español
+235,#GVQR8R0Y,closed,Indonesia,9,9044,6359,3000,always,3,184,Unranked,5,
+236,#2Q9YVL2RU,inviteOnly,Kazakhstan,5,9339,11071,800,always,0,35,Silver League I,11,Pусский
+237,#2YUGPRJ9Y,closed,International,6,5340,5383,0,always,2,30,Gold League II,5,English
+238,#2P8UC9C20,closed,India,4,4117,5384,0,always,4,25,Silver League I,6,English
+239,#2Q80QJUGQ,open,India,2,7854,9727,200,always,0,3,Silver League I,15,English
+240,#L200VJ2L,closed,International,9,12787,12553,800,always,0,110,Silver League II,17,English
+241,#Q89V2U08,inviteOnly,Philippines,9,14775,10889,0,always,0,145,Gold League I,20,
+242,#22C88RPCP,inviteOnly,Philippines,6,9308,8910,5500,always,0,78,Gold League III,11,English
+243,#2QY2U9URR,inviteOnly,International,1,7324,7830,0,always,0,2,Unranked,10,العربية
+244,#2LRCCY9CG,closed,International,6,5792,7751,400,always,0,68,Gold League III,12,English
+245,#2Y298PUUP,closed,Philippines,10,16021,14269,4600,always,0,111,Gold League II,15,
+246,#22Y2YGVG8,inviteOnly,United States,9,12022,15236,0,always,0,71,Silver League I,16,
+247,#2G0PLJ8RV,closed,,2,3812,3687,5500,always,0,3,Unranked,11,
+248,#2Q2JQCGYG,closed,Afghanistan,2,4518,4306,400,always,1,7,Silver League II,6,English
+249,#RY88QGPC,inviteOnly,India,12,12060,12332,200,always,0,312,Silver League II,12,
+250,#PLLLYYJV,closed,International,11,15007,15081,1000,always,0,118,Gold League III,16,
+251,#292J222Y8,inviteOnly,International,7,10702,14191,800,always,1,65,Silver League III,14,
+252,#UU9UQ0CL,inviteOnly,India,9,9693,11480,800,always,4,124,Silver League III,18,
+253,#RULJ9GCG,closed,Philippines,5,5990,6851,0,always,0,45,Unranked,5,
+254,#2G992YCJR,inviteOnly,Philippines,2,7153,7255,200,always,0,4,Unranked,7,English
+255,#2YGCLLVJR,inviteOnly,Philippines,8,3063,148,0,always,1,71,Gold League II,10,English
+256,#U889JCPL,closed,India,4,4579,5795,1000,always,1,27,Unranked,6,
+257,#RL0CQGGL,inviteOnly,International,11,14639,17892,800,always,1,167,Silver League II,26,
+258,#P9LQPLPV,inviteOnly,India,12,13201,9706,1900,always,0,178,Unranked,15,
+259,#2QL2YQJLY,closed,Myanmar (Burma),6,25690,26947,5500,always,0,12,Crystal League II,46,English
+260,#2QL9Q8QLP,closed,International,2,3316,3627,0,always,0,4,Unranked,5,Bahasa Indonesia
+261,#2LVYQ9Y2R,inviteOnly,,2,3482,3092,0,always,0,11,Unranked,5,
+262,#L28LJC0R,inviteOnly,Yemen,19,18897,20856,0,always,2,686,Crystal League II,33,
+263,#2Q29UU2VC,inviteOnly,International,3,4913,4251,0,always,0,13,Unranked,10,English
+264,#CJ0JJPQG,inviteOnly,India,10,18978,19165,2400,always,0,130,Silver League I,24,
+265,#L98JL0C2,inviteOnly,International,13,14803,15156,1300,always,1,244,Gold League III,14,
+266,#2Q282LYRJ,inviteOnly,,2,13531,14270,0,always,0,3,Unranked,15,
+267,#2L2J80Y20,inviteOnly,International,3,7078,8212,200,always,1,20,Unranked,12,Bahasa Melayu
+268,#2YJQRP9QV,open,Indonesia,1,6817,7347,200,always,0,2,Unranked,10,Bahasa Indonesia
+269,#28CJ9GY29,inviteOnly,Bangladesh,5,9331,7098,0,always,0,38,Silver League III,14,
+270,#2P0JPC98Q,inviteOnly,Nepal,8,21447,21740,1000,always,0,48,Gold League II,24,
+271,#2LLGLJP8V,closed,India,4,15301,17557,800,always,0,30,Gold League II,31,English
+272,#2LYQU0CR0,inviteOnly,Türkiye,6,11436,12344,0,always,0,50,Gold League II,18,Türkçe
+273,#2PL0000JG,closed,Egypt,9,15691,16563,1000,always,0,88,Gold League II,22,
+274,#UVL9YJPJ,open,France,9,20524,20966,0,always,0,111,Silver League I,50,
+275,#2LG28PYJR,inviteOnly,Iran,4,10032,11471,0,always,0,23,Unranked,18,فارسی
+276,#2LRG82LJG,open,Bangladesh,4,12114,11540,800,always,1,36,Silver League III,19,English
+277,#2LGV2LGQ0,closed,Türkiye,3,6433,7811,400,always,0,17,Unranked,8,Türkçe
+278,#2L29LV9LL,closed,International,4,2090,2194,0,always,0,32,Bronze League II,22,
+279,#2LGJJ2QJQ,inviteOnly,Indonesia,1,5241,3102,1000,always,1,1,Unranked,5,Bahasa Indonesia
+280,#P9Q0YJ0V,closed,Côte d’Ivoire,14,17836,15840,0,always,0,256,Gold League III,26,
+281,#C9LR9LQ8,inviteOnly,India,9,11662,13061,0,always,0,137,Gold League II,15,English
+282,#2Q0C90R2Y,closed,International,2,4285,5275,400,always,0,6,Unranked,5,
+283,#29U9PU00C,inviteOnly,Türkiye,7,8678,11352,400,always,0,51,Bronze League I,11,
+284,#2Q2G8GVCG,inviteOnly,Iran,5,4677,4811,0,always,0,67,Unranked,6,فارسی
+285,#2L2QJPVQV,closed,,4,6663,7553,800,always,0,39,Unranked,6,
+286,#29RQJ9UG0,inviteOnly,Malaysia,8,9720,10349,400,always,1,128,Silver League I,12,
+287,#YG29VRY8,closed,Indonesia,9,14071,15417,5500,always,0,136,Unranked,15,
+288,#2LQYLJ92V,closed,,5,7987,7495,0,always,0,59,Silver League III,13,
+289,#28YLRVCQG,inviteOnly,Indonesia,3,8684,11249,0,always,0,4,Unranked,10,
+290,#JQPCU20R,inviteOnly,International,8,7533,11798,0,always,0,114,Silver League II,31,
+291,#9J0PRQ2G,inviteOnly,United Kingdom,18,39388,40640,1500,always,0,219,Master League III,42,
+292,#2CULRL2R,inviteOnly,Philippines,10,15451,11757,200,always,0,177,Gold League I,13,
+293,#CLC9LLJG,inviteOnly,International,5,14195,13077,1000,always,6,36,Gold League III,14,
+294,#8002QG2Q,closed,Philippines,8,10175,11485,0,always,6,114,Gold League II,16,
+295,#2QGY8GLVC,inviteOnly,Philippines,3,6077,6506,0,always,0,21,Unranked,10,English
+296,#LLYGYP8J,open,International,8,10667,9185,0,always,3,95,Silver League II,19,English
+297,#P8YRYP02,inviteOnly,International,18,23456,22474,2000,always,0,231,Crystal League I,17,
+298,#2QQL29C28,inviteOnly,International,2,6660,5202,800,always,0,3,Unranked,10,فارسی
+299,#29YVYVVLL,open,Myanmar (Burma),9,8092,8178,0,always,0,216,Bronze League I,13,
+300,#Q2YCGVVQ,inviteOnly,International,16,13379,13154,1200,always,2,481,Gold League I,16,
+301,#9QLYQYRL,inviteOnly,Philippines,10,7659,7457,1000,always,1,121,Unranked,5,
+302,#2LJU82900,closed,Philippines,4,5985,5511,1000,always,0,36,Unranked,5,English
+303,#RR8CJR0L,closed,International,5,5641,6973,600,always,0,58,Silver League III,10,
+304,#2Y292V0RQ,inviteOnly,Philippines,4,8397,5288,5500,always,0,32,Gold League II,14,English
+305,#2QPL9UL2C,open,India,3,4625,3502,0,always,0,19,Silver League III,14,English
+306,#YGVCVU8Q,closed,Indonesia,9,4157,5071,5200,always,2,96,Gold League I,5,Bahasa Indonesia
+307,#LU8RYG90,inviteOnly,Indonesia,15,6457,4969,3000,always,1,335,Crystal League III,5,
+308,#PVLJG8V2,inviteOnly,International,15,23966,23821,400,always,0,205,Crystal League II,19,
+309,#2L229C8PG,open,United States,2,5002,3332,1200,always,1,10,Unranked,6,English
+310,#2QVU228C2,inviteOnly,Indonesia,2,3069,4162,400,always,1,5,Unranked,5,Bahasa Indonesia
+311,#2Q9L8L0YY,inviteOnly,Türkiye,4,9505,10312,0,always,1,28,Unranked,11,Türkçe
+312,#JVCJ988,inviteOnly,Philippines,19,24108,24954,5500,always,5,578,Crystal League II,32,English
+313,#2LJ8R82Y0,open,International,2,4170,4287,200,always,0,5,Unranked,6,Bahasa Indonesia
+314,#2G0YRUL08,inviteOnly,South Africa,2,17984,18295,0,always,2,6,Unranked,17,English
+315,#UVVVYVYC,open,Italy,4,8361,8855,800,always,0,21,Unranked,10,
+316,#2YVLQQGR9,inviteOnly,Russia,11,16859,15572,1500,always,0,110,Gold League I,17,
+317,#PUY2G8L9,inviteOnly,International,6,10840,13615,0,always,0,65,Bronze League II,46,
+318,#2QQQUJLYJ,open,Thailand,2,2914,2018,0,always,2,6,Unranked,5,English
+319,#2QL08J9CC,inviteOnly,Indonesia,1,4024,3198,0,always,2,3,Unranked,12,Bahasa Indonesia
+320,#Q0PVU28P,inviteOnly,Panama,8,7095,8074,0,always,0,127,Unranked,11,Español
+321,#2QQGL88C9,inviteOnly,Bangladesh,1,3172,4750,0,always,0,3,Unranked,6,English
+322,#2LUU2V08U,closed,International,7,13719,14096,1500,always,0,53,Gold League II,15,Español
+323,#GLYY22RC,closed,Bangladesh,13,10461,12580,5500,always,3,215,Gold League I,34,English
+324,#2Q02G2Q8C,inviteOnly,Russia,5,11792,13593,2000,always,0,40,Silver League I,14,Pусский
+325,#2QGQUGRP2,inviteOnly,Syria,2,3646,3185,0,always,0,4,Unranked,5,العربية
+326,#2QQ2YVRG9,inviteOnly,,2,6841,3955,0,always,0,6,Unranked,14,
+327,#JPQRRJ0,inviteOnly,France,7,9323,7671,0,always,6,106,Gold League III,10,Français
+328,#LG08L829,inviteOnly,United States,10,14389,17059,0,always,1,120,Unranked,16,
+329,#8GVYJJVR,inviteOnly,Malaysia,9,6656,5561,1000,always,0,148,Gold League II,6,
+330,#2L80V99J8,open,Indonesia,2,5906,7307,400,always,0,2,Gold League III,11,Bahasa Indonesia
+331,#2Q9PC9PQ2,inviteOnly,Philippines,5,8682,3089,0,always,0,24,Gold League II,11,English
+332,#2PQCCJ02J,inviteOnly,Indonesia,5,14866,14305,0,always,0,49,Silver League I,18,Bahasa Indonesia
+333,#2LVVRJQGR,open,International,5,7099,6860,4000,always,2,39,Unranked,6,Bahasa Indonesia
+334,#C22LC0L8,inviteOnly,Sri Lanka,8,5631,3765,0,always,2,130,Unranked,7,English
+335,#2QLU0PJ9R,closed,Indonesia,3,3059,2016,0,always,0,17,Unranked,5,Bahasa Indonesia
+336,#2LJQLQJJU,open,Indonesia,1,8661,7560,3500,always,0,1,Unranked,12,Bahasa Indonesia
+337,#UJGCLGUJ,inviteOnly,Christmas Island,9,7833,7404,5500,always,0,197,Unranked,7,
+338,#RCCGJQYP,open,International,4,10510,12829,5500,always,2,20,Unranked,11,
+339,#VRLQYR9G,closed,Bangladesh,10,7032,7341,5500,always,0,98,Gold League I,7,
+340,#LQJJLPVC,inviteOnly,Brunei,6,7844,899,5500,always,1,68,Unranked,13,
+341,#2QG009PGG,closed,Philippines,3,3385,1656,0,always,1,14,Unranked,5,English
+342,#2QLYP9VLJ,inviteOnly,India,7,17699,14411,2200,always,4,42,Gold League I,18,English
+343,#22VC0QCYR,inviteOnly,International,6,11719,11556,0,always,0,71,Gold League III,16,
+344,#2QPVP0LR0,open,United States,3,8174,8462,1000,always,0,13,Silver League I,13,English
+345,#2LUVJQP2V,inviteOnly,Philippines,6,7535,5575,1500,always,1,92,Unranked,5,English
+346,#2QV092VRP,open,Philippines,1,7930,8014,5500,always,0,0,Unranked,12,English
+347,#8L80L0VG,closed,International,11,14242,12362,0,always,2,243,Gold League II,20,
+348,#2LJRCCRQC,inviteOnly,Bangladesh,2,7021,7532,200,always,0,3,Unranked,12,English
+349,#2L8Y8YL8R,inviteOnly,Indonesia,2,5031,4857,2000,always,0,4,Unranked,6,Bahasa Indonesia
+350,#292RQUPJ8,inviteOnly,Sri Lanka,4,7689,7384,0,always,0,26,Silver League II,12,
+351,#Y0G2RYY8,inviteOnly,Philippines,15,11284,8415,400,always,3,396,Unranked,7,
+352,#2QLP0UQVP,closed,Indonesia,2,3888,4718,0,always,0,11,Unranked,7,Bahasa Indonesia
+353,#2YPCCYY8Y,inviteOnly,International,3,6432,5481,0,always,0,15,Gold League III,6,
+354,#2Y288UCCQ,closed,Philippines,4,10166,3003,5500,always,0,30,Unranked,11,
+355,#2Q9CUP0UU,closed,Indonesia,5,11191,11057,0,always,1,56,Unranked,16,Türkçe
+356,#2QCRQ8JG0,inviteOnly,Malaysia,2,6595,4903,0,always,1,10,Unranked,8,简体中文
+357,#92LJPJ2L,inviteOnly,Bangladesh,16,17246,19562,0,always,0,364,Crystal League III,19,
+358,#2YYGY9P0Q,closed,,2,5306,3671,0,always,1,1,Silver League II,14,
+359,#2YJ008CGC,inviteOnly,Philippines,2,5282,4739,200,always,1,5,Unranked,10,English
+360,#20GYYPRU0,inviteOnly,Vietnam,8,7172,9773,1300,always,0,75,Gold League II,10,
+361,#2YU0PPL88,closed,International,3,5643,5466,600,always,0,20,Unranked,8,Bahasa Indonesia
+362,#2QG2UJL8V,inviteOnly,International,2,7720,7454,1500,always,2,8,Unranked,7,Pусский
+363,#YGY0G0RC,inviteOnly,International,10,6477,2389,0,always,1,148,Gold League III,11,
+364,#2LLUVRJL2,inviteOnly,Philippines,3,6169,5817,1500,always,0,18,Unranked,5,English
+365,#2QGYRYJG9,inviteOnly,International,4,4006,480,200,always,2,36,Unranked,6,English
+366,#2G89Q9U8L,closed,India,2,3562,2738,400,always,0,11,Unranked,5,English
+367,#2G88CR9G2,inviteOnly,International,3,7092,8731,200,always,0,11,Silver League II,10,English
+368,#2YUR90UJG,inviteOnly,,3,9652,7731,0,always,0,13,Unranked,12,
+369,#22UYQP9RR,closed,Bangladesh,12,9309,9294,5500,always,2,329,Unranked,5,
+370,#2YQQ2VPRL,inviteOnly,Iraq,2,11787,11713,600,always,0,3,Unranked,16,العربية
+371,#2QQC208VJ,closed,Iran,2,6898,6888,200,always,1,5,Unranked,5,فارسی
+372,#29YGJQLYG,inviteOnly,India,5,10525,10664,400,always,5,25,Gold League III,20,
+373,#2QQ902RVY,inviteOnly,India,3,13801,15557,0,always,2,7,Gold League II,19,English
+374,#QL08GQ22,closed,Philippines,6,11810,9146,0,always,0,55,Gold League III,15,English
+375,#PJCRLP0R,inviteOnly,Mozambique,13,5975,4506,0,always,4,442,Unranked,12,
+376,#2P8CQJ9YC,inviteOnly,Philippines,7,11035,10987,200,always,3,87,Silver League II,16,English
+377,#2L2V9P82U,open,,2,4422,3420,2000,always,1,5,Unranked,5,English
+378,#2YUY22RU9,inviteOnly,Philippines,9,14103,12534,3000,always,0,75,Silver League I,17,
+379,#R0RJYGQC,inviteOnly,India,3,6739,5868,0,always,0,19,Unranked,10,
+380,#QJ2QL2VC,inviteOnly,Philippines,12,5482,5002,0,always,0,203,Gold League III,7,English
+381,#2QPJJUQP0,inviteOnly,Philippines,2,8831,5784,200,always,0,9,Unranked,8,English
+382,#2YGL9RLL9,open,Türkiye,2,6410,7556,0,always,0,5,Unranked,10,Türkçe
+383,#C080P2YY,inviteOnly,Philippines,6,7724,6512,5300,always,0,63,Gold League II,16,English
+384,#QG9YJ9LQ,inviteOnly,Indonesia,2,7680,8159,0,always,0,2,Unranked,7,
+385,#8GR8PRG8,inviteOnly,United Arab Emirates,12,6831,5287,0,always,1,256,Gold League III,5,
+386,#2Y0LG882R,inviteOnly,,5,9013,12731,200,always,1,24,Silver League III,13,Bahasa Indonesia
+387,#YCYPLY0Q,closed,India,12,23352,27525,5500,always,2,175,Unranked,32,
+388,#2LV80U2UQ,closed,,2,7869,6308,0,always,0,3,Unranked,11,
+389,#2YPGJ0R2J,inviteOnly,International,3,5408,9460,0,always,0,18,Unranked,12,
+390,#20QPGCGJY,inviteOnly,Qatar,6,18325,17194,1200,always,0,27,Silver League II,31,Bahasa Indonesia
+391,#22GGC0CRV,closed,International,10,12299,3851,5500,always,0,141,Unranked,7,
+392,#2YCY08JR9,inviteOnly,Indonesia,2,4628,7011,0,always,0,5,Unranked,6,
+393,#L8GR9UVR,inviteOnly,India,14,13708,14785,0,always,0,253,Crystal League II,14,English
+394,#290PR90CY,inviteOnly,France,6,6839,8208,3000,always,2,78,Unranked,5,English
+395,#2L80PCGRV,inviteOnly,International,2,2527,3894,0,always,0,5,Unranked,5,العربية
+396,#RG2R2VUQ,open,International,8,5996,6532,5500,always,5,86,Silver League I,6,
+397,#2YQLUCG0Y,inviteOnly,India,6,24975,24863,0,always,4,21,Gold League II,42,English
+398,#2G0008UJ0,closed,Indonesia,2,2897,3232,0,always,0,13,Unranked,5,Bahasa Indonesia
+399,#R0Y9Q2QR,inviteOnly,Philippines,13,8147,7650,800,always,2,356,Gold League III,6,
+400,#2YJQG88J9,open,Iraq,6,7507,9581,800,always,0,89,Silver League III,15,العربية
+401,#2Q08PV2CV,inviteOnly,Israel,3,6039,3510,0,always,0,16,Unranked,10,Bahasa Indonesia
+402,#8CQ8CQ2G,closed,Philippines,11,7776,878,0,always,1,193,Gold League III,15,
+403,#QUVVJ090,closed,Egypt,7,5477,5733,1000,always,2,97,Bronze League II,10,
+404,#2L89LV0LJ,inviteOnly,India,5,14447,13652,1200,always,2,42,Gold League II,18,English
+405,#9U0ULGC0,inviteOnly,Philippines,10,7182,5908,0,always,1,156,Unranked,6,
+406,#2QVYVJQUP,inviteOnly,India,4,4854,2975,600,always,1,22,Silver League II,8,English
+407,#2QVYJ2UGR,inviteOnly,Italy,3,12645,12914,800,always,2,16,Silver League I,24,Italiano
+408,#2L8990R0V,closed,Indonesia,4,9842,13558,1000,always,0,10,Gold League III,16,Bahasa Indonesia
+409,#2Q8UYYL8V,inviteOnly,Switzerland,4,7559,8202,0,always,0,32,Unranked,7,English
+410,#2PY9V8YPQ,inviteOnly,Canada,10,19818,20744,0,always,2,117,Gold League II,29,
+411,#PQU2GLLL,inviteOnly,Philippines,8,10409,7016,400,always,3,83,Silver League II,11,
+412,#C0LR022Q,closed,International,11,10584,6281,1500,always,0,276,Unranked,7,
+413,#LQGY2PYR,inviteOnly,Indonesia,11,12766,12159,1200,always,1,207,Silver League I,13,
+414,#2QCYCYU2P,inviteOnly,Philippines,4,12938,13360,1200,always,0,18,Gold League III,20,English
+415,#2LQYGVYPQ,closed,International,4,10666,8291,5500,always,0,15,Silver League I,11,Bahasa Indonesia
+416,#8R0CLLC,inviteOnly,Germany,9,10701,10870,0,always,2,164,Silver League II,13,
+417,#9V9R0RQ,open,Nepal,17,28638,30757,1000,always,0,411,Gold League II,50,English
+418,#U900CQPC,closed,Iran,8,11725,10723,0,always,5,142,Gold League II,19,فارسی
+419,#2QQ0LRY8J,inviteOnly,Chile,3,17066,18795,0,always,1,6,Gold League III,29,Français
+420,#2Y8QC8UU9,inviteOnly,Albania,4,6948,8472,0,always,1,40,Unranked,10,
+421,#QCUGV9QL,inviteOnly,International,8,7445,9765,800,always,0,97,Crystal League III,13,English
+422,#P2JJJRCU,closed,Indonesia,11,13431,14308,5500,always,0,197,Gold League I,15,Bahasa Indonesia
+423,#2QRGCCQGC,inviteOnly,Nepal,2,9674,10135,0,always,1,3,Unranked,14,English
+424,#2YY88RR8G,inviteOnly,Costa Rica,6,8737,7245,2000,always,1,70,Unranked,5,
+425,#CYR2QQ2C,closed,Afghanistan,9,8809,5487,5500,always,0,130,Gold League III,13,
+426,#C29P8R8R,closed,Italy,6,9247,7683,2000,always,2,49,Gold League III,10,Italiano
+427,#UGL8YUP,closed,Germany,13,9725,11690,0,always,0,344,Silver League II,10,
+428,#89Y82JUY,closed,Russia,10,6777,6104,1000,always,0,213,Bronze League II,6,
+429,#9JYGG9QP,inviteOnly,Czech Republic,4,6068,6013,1500,always,0,22,Unranked,6,
+430,#29RJRR82P,inviteOnly,United Kingdom,10,11000,10688,0,always,0,207,Unranked,5,
+431,#GL929R0P,closed,Malaysia,11,15065,15896,4800,always,1,234,Silver League I,18,
+432,#2LL9LURPL,inviteOnly,Bangladesh,7,12482,14397,2000,always,0,51,Silver League II,18,English
+433,#2G2C8UC2G,inviteOnly,International,2,7125,6329,1000,always,0,7,Unranked,8,English
+434,#2QJLVP08U,inviteOnly,Philippines,2,7219,7436,200,always,1,7,Unranked,7,English
+435,#2YJGQUP28,inviteOnly,,3,4302,5077,0,always,0,15,Unranked,5,
+436,#2YQPRYRGV,inviteOnly,,7,15390,15864,0,always,1,89,Gold League II,24,
+437,#2QCUG8JVJ,inviteOnly,International,2,6046,5645,0,always,2,7,Unranked,6,English
+438,#2QQ0Q2PJR,inviteOnly,International,2,2810,5298,0,always,6,6,Unranked,5,Deutsch
+439,#GCV89GCL,inviteOnly,Bangladesh,11,17513,19276,0,always,0,174,Gold League III,29,English
+440,#2QGJ0ULCY,open,International,1,9141,9913,2000,always,0,1,Unranked,12,English
+441,#2YV9LYPUG,inviteOnly,Philippines,2,7716,3716,2000,always,0,8,Unranked,11,
+442,#2QR099V0P,inviteOnly,Philippines,2,15045,13870,0,always,0,2,Unranked,16,
+443,#VCJCLJCJ,inviteOnly,Germany,8,11164,11076,0,always,7,149,Gold League III,15,Deutsch
+444,#2QQC8R82V,inviteOnly,United Kingdom,2,5687,6473,0,always,0,4,Unranked,10,English
+445,#2QLRUC0JJ,inviteOnly,,4,4202,3709,0,always,0,40,Unranked,5,
+446,#2QQLY2GJL,closed,,3,15222,6059,0,always,4,4,Gold League I,50,
+447,#2PYQ9G9UP,open,India,5,9900,10737,2000,always,1,25,Gold League II,14,English
+448,#2G0PVP22L,inviteOnly,Indonesia,3,6107,3103,0,always,4,12,Gold League III,10,Bahasa Indonesia
+449,#2PRVC9LYQ,closed,Indonesia,5,14977,14873,5500,always,0,41,Silver League I,18,Bahasa Indonesia
+450,#2LRPJU9VJ,inviteOnly,International,8,16357,17400,2600,always,0,70,Gold League III,23,Bahasa Indonesia
+451,#CJCCLVUG,inviteOnly,Bangladesh,13,15765,16999,2000,always,2,408,Bronze League I,38,English
+452,#2GJRL8U2,inviteOnly,Iran,19,28488,26913,3700,always,1,462,Crystal League II,30,فارسی
+453,#2G808LQVG,open,Türkiye,2,14199,14643,1300,always,0,5,Unranked,17,Türkçe
+454,#2QRG2RY2R,inviteOnly,International,2,11291,7242,0,always,7,12,Unranked,15,
+455,#2G8JP809V,inviteOnly,Philippines,2,7212,6905,200,always,0,6,Unranked,7,English
+456,#2Q82RQPVQ,closed,Germany,2,2743,3970,0,always,0,4,Unranked,5,
+457,#CQJVC0G,inviteOnly,International,14,10033,10961,2700,always,0,286,Silver League II,10,
+458,#220Q80YVY,closed,Greece,6,10488,11635,5500,always,2,44,Unranked,6,
+459,#V9JLJYVP,closed,Türkiye,9,20479,21926,0,always,3,34,Crystal League II,18,Türkçe
+460,#2PQPQ2LY0,inviteOnly,Türkiye,9,20918,21470,0,always,2,63,Silver League I,24,
+461,#VP80JPCQ,inviteOnly,Turkmenistan,6,7571,9290,2300,always,1,68,Unranked,10,Pусский
+462,#Q2GG2U0R,inviteOnly,International,4,5223,2358,0,always,0,35,Unranked,10,
+463,#RQ9UQVG2,closed,Malaysia,10,10492,1720,0,always,0,212,Gold League III,14,
+464,#GJ9LJJ0Y,closed,United States,7,5912,6459,0,always,6,93,Silver League I,5,
+465,#J8P9G8VR,inviteOnly,United Kingdom,18,23661,22743,3500,always,1,301,Crystal League II,15,English
+466,#2QJ02CYQY,open,Indonesia,2,10333,9619,400,always,0,3,Unranked,16,Bahasa Melayu
+467,#C8UUPLLR,inviteOnly,India,8,22025,23299,1500,always,0,83,Gold League I,28,
+468,#2P9GQCLRC,inviteOnly,Chile,9,10000,11810,2000,always,0,152,Silver League II,16,Español
+469,#U2GGQVR2,inviteOnly,Philippines,6,7925,4669,0,always,11,71,Unranked,10,English
+470,#P8JJ98V8,inviteOnly,Philippines,13,18469,20791,1200,always,1,222,Gold League II,32,
+471,#UYQ88JCQ,open,Japan,12,19174,18527,1000,always,0,141,Crystal League III,26,Suomi
+472,#2Q8G08RVC,inviteOnly,International,2,7179,9452,0,always,2,11,Unranked,6,English
+473,#2G0L0RQ0C,closed,Iran,3,2932,4806,0,always,0,14,Unranked,10,فارسی
+474,#2YQ0LRU2L,closed,Bangladesh,2,5417,5102,0,always,1,10,Unranked,6,
+475,#2Q8LLLLRV,inviteOnly,India,3,8977,9559,0,always,1,13,Unranked,11,
+476,#2QPV80RPC,closed,International,3,7584,8238,0,always,0,10,Unranked,11,Pусский
+477,#8U009Y0G,inviteOnly,Sri Lanka,15,14581,16523,600,always,0,309,Silver League II,17,
+478,#QLRQVGPU,inviteOnly,Indonesia,16,16782,15830,4100,always,0,315,Silver League I,24,Bahasa Indonesia
+479,#2L28UR9GU,open,,3,6747,7984,0,always,2,15,Unranked,11,
+480,#2LJ0UQV0G,inviteOnly,France,6,23965,23800,800,always,2,24,Crystal League III,34,Français
+481,#GJPLJPGU,inviteOnly,Nepal,8,6021,5655,1400,always,0,106,Gold League III,5,
+482,#2G00RRV9L,open,,2,7376,7502,3000,always,1,6,Unranked,6,
+483,#9QJUJ2CU,inviteOnly,India,6,9286,7628,0,always,3,65,Unranked,15,
+484,#2QV2RPR8R,inviteOnly,Netherlands,1,7738,7249,0,always,0,2,Unranked,10,
+485,#20U99UVV8,inviteOnly,Iran,10,9730,10003,0,always,1,206,Unranked,10,
+486,#2QGJ80LP8,inviteOnly,Ukraine,2,3785,4487,200,always,0,8,Silver League I,5,Pусский
+487,#LCQ80P2J,inviteOnly,United States,8,4492,2395,0,always,0,163,Silver League III,14,
+488,#GGYVYVG8,closed,Philippines,18,18136,12998,5500,always,0,559,Crystal League III,25,
+489,#2LYU900QR,inviteOnly,Philippines,2,2583,1807,200,always,3,6,Unranked,5,
+490,#2YQJ2VR00,open,,4,7837,7559,0,always,0,35,Unranked,12,فارسی
+491,#2QP8YVYLQ,inviteOnly,International,2,5549,4063,0,always,3,4,Silver League II,14,English
+492,#2V8UUPL2,inviteOnly,Philippines,6,9586,6468,800,always,0,79,Unranked,11,
+493,#2YY0G20Y9,inviteOnly,Afghanistan,8,6907,5195,1200,always,0,71,Gold League III,5,English
+494,#2QYRQVLP8,inviteOnly,International,3,5450,6498,0,always,3,19,Unranked,10,English
+495,#2QQGRRV02,open,Vietnam,4,9933,9968,1800,always,0,9,Crystal League III,11,Tiếng Việt
+496,#R2LPUJUY,inviteOnly,Russia,15,14131,18645,600,always,0,442,Gold League II,13,
+497,#2QYRYUC2G,inviteOnly,Ukraine,4,10849,10899,0,always,0,22,Gold League III,17,English
+498,#2YVLQQQ98,open,International,2,9482,12605,0,always,1,5,Unranked,9,Tiếng Việt
+499,#2YYJLRVVG,open,Vietnam,13,12540,14195,2500,always,0,117,Crystal League II,10,
+500,#2QQVJR2C0,inviteOnly,Philippines,2,6555,5792,1500,always,6,6,Unranked,6,English
+501,#2L08YJ2YV,closed,Philippines,1,3393,672,0,always,0,2,Unranked,5,English
+502,#L9R9QYCY,inviteOnly,India,8,5719,5176,1500,always,1,112,Unranked,10,
+503,#2L82RU8PJ,inviteOnly,United States,4,6895,5904,1000,always,0,24,Unranked,5,English
+504,#G9CYJVQR,open,International,7,9977,6957,2000,always,0,93,Silver League III,14,
+505,#CV9V2JV9,inviteOnly,United States,3,8860,10217,0,always,0,9,Unranked,12,English
+506,#2Q0LJLVJU,inviteOnly,,2,6030,6961,0,always,0,8,Silver League II,10,
+507,#2P8J2YVL9,closed,International,14,5303,4908,2000,always,0,107,Crystal League III,5,English
+508,#QYR0PURU,inviteOnly,Myanmar (Burma),14,10382,11051,0,always,2,340,Gold League I,12,
+509,#2LR2VYQ90,closed,,5,4026,1407,0,always,0,60,Unranked,5,
+510,#2P0J8PYCP,closed,Bangladesh,12,6346,6779,5500,always,6,181,Gold League I,6,English
+511,#2PCJG8LY0,open,Bangladesh,3,5308,6871,1200,always,1,16,Gold League III,11,English
+512,#29U2QCPPC,inviteOnly,Italy,5,12406,11685,0,always,0,34,Gold League III,18,
+513,#U0LL9JVG,inviteOnly,India,9,13145,14264,800,always,0,162,Unranked,19,
+514,#LVVJ982P,inviteOnly,India,10,14302,14671,1000,always,4,173,Gold League II,18,English
+515,#J0ULCVG8,inviteOnly,International,8,6709,6467,0,always,0,112,Silver League II,12,
+516,#2YRC8PQC2,inviteOnly,Indonesia,4,12168,14097,1800,always,1,6,Silver League I,11,Bahasa Indonesia
+517,#2LJ8R89VQ,inviteOnly,Germany,1,7350,7813,0,always,0,1,Unranked,10,Deutsch
+518,#290CQQRUU,inviteOnly,Netherlands,8,5809,6954,0,always,0,102,Silver League III,11,
+519,#2QRRJ890J,closed,International,2,6413,9043,0,always,0,11,Unranked,11,Bahasa Indonesia
+520,#2Q828QG2G,inviteOnly,Pakistan,5,9494,8984,800,always,1,29,Gold League III,19,
+521,#9YVP2YQV,inviteOnly,Albania,6,4751,3818,5500,always,7,60,Unranked,5,
+522,#URG0RUP9,inviteOnly,,9,11627,11026,0,always,2,182,Gold League III,14,
+523,#2QQJRC0JV,inviteOnly,International,3,8375,7732,1000,always,0,15,Unranked,8,English
+524,#2PURL9LY9,inviteOnly,,9,17911,21174,1300,always,3,76,Gold League II,23,
+525,#28QCJGYRG,inviteOnly,Indonesia,7,10349,2148,0,always,1,70,Silver League II,11,
+526,#9C0JCC2V,inviteOnly,Bangladesh,10,9920,9010,3300,always,0,160,Silver League II,17,English
+527,#L2Y0R8J9,inviteOnly,India,12,8702,6853,0,always,14,196,Crystal League II,10,English
+528,#9QPGJPUQ,inviteOnly,Philippines,14,10865,9052,1000,always,2,366,Unranked,13,
+529,#2YRRVRPYV,open,Canada,2,8434,9695,2200,always,0,3,Unranked,11,English
+530,#2PCQRYLV0,open,International,8,13908,13382,0,always,0,59,Gold League II,10,English
+531,#2L2CP22V0,closed,Germany,2,3195,3241,0,always,0,9,Unranked,6,Deutsch
+532,#8UCYRCRC,inviteOnly,Thailand,9,11085,9112,3500,always,0,154,Unranked,12,
+533,#20U9JQY00,closed,Philippines,2,3965,4682,0,always,0,5,Unranked,10,
+534,#2L9GQLQPU,closed,International,4,10823,8928,600,always,0,28,Gold League II,12,
+535,#2YJR8QLUL,inviteOnly,Bangladesh,1,6625,7085,2600,always,1,2,Unranked,5,English
+536,#2QYPJGPQL,inviteOnly,International,4,9960,9016,0,always,0,22,Unranked,10,English
+537,#PUVR9UVV,closed,International,14,9293,7596,5500,always,0,286,Crystal League III,10,Português
+538,#UYQCVLL8,closed,,3,8195,1529,4200,always,0,9,Unranked,11,
+539,#2G0P0L0YU,open,Indonesia,2,6833,4386,600,always,1,11,Unranked,12,Bahasa Indonesia
+540,#2QP2PJC08,inviteOnly,,4,10448,10546,0,always,3,26,Unranked,13,
+541,#2PV82CG8Y,closed,Indonesia,6,14070,13932,3500,always,1,7,Gold League I,15,Bahasa Indonesia
+542,#2QLVJ99CC,closed,Nepal,5,7952,8399,0,always,0,43,Unranked,10,English
+543,#2LGR9LGC9,inviteOnly,Mexico,7,8194,5681,0,always,1,65,Gold League III,12,Español
+544,#2LQ9CJJ2U,closed,International,1,10418,10628,1200,always,0,1,Unranked,15,English
+545,#2G00UC0R8,closed,Philippines,1,7541,9997,0,always,1,1,Unranked,10,English
+546,#LRYCC2YJ,closed,Indonesia,13,10472,11743,5500,always,0,174,Gold League I,14,Bahasa Indonesia
+547,#2YU908CL8,inviteOnly,Japan,1,8494,8973,0,always,2,2,Unranked,5,English
+548,#GJ89U8U8,inviteOnly,Nepal,8,14396,15262,800,always,1,102,Gold League III,17,
+549,#2Y00R98JJ,inviteOnly,International,9,9798,9023,200,always,0,95,Gold League III,11,English
+550,#2QRQYURR0,inviteOnly,Afghanistan,2,4289,4333,800,always,0,3,Unranked,6,English
+551,#2Y0Y8UUJ2,open,Malaysia,5,9639,10000,1200,always,1,46,Silver League I,15,Bahasa Melayu
+552,#2YJ2JV2GR,inviteOnly,International,7,10339,11142,1000,always,0,47,Gold League III,18,العربية
+553,#2LGC0YJ9R,open,Türkiye,6,7965,9641,1300,always,1,41,Silver League I,11,Türkçe
+554,#2LRJPCP0V,closed,Indonesia,3,6410,9496,0,always,0,7,Unranked,15,
+555,#2LV2PL0L9,closed,Indonesia,3,8981,8793,1000,always,0,16,Unranked,11,Bahasa Indonesia
+556,#2LRQVYRRY,inviteOnly,Philippines,6,9869,7836,2500,always,3,98,Unranked,12,English
+557,#2Q299VU28,inviteOnly,International,4,7104,6363,0,always,4,24,Gold League III,11,العربية
+558,#8JLJGG02,inviteOnly,Philippines,14,13869,15546,0,always,0,282,Gold League III,14,
+559,#2Q9PYLUCJ,open,India,3,7405,7814,400,always,0,8,Silver League III,11,English
+560,#2YG2P0YJP,inviteOnly,Türkiye,6,11419,10892,400,always,0,74,Silver League II,9,Türkçe
+561,#2QL0QG00C,inviteOnly,International,3,5408,6621,0,always,0,28,Unranked,7,English
+562,#2QLR9URJR,inviteOnly,Afghanistan,8,14075,17283,200,always,0,84,Silver League I,17,English
+563,#2QPUVLY82,inviteOnly,,4,8645,7805,200,always,0,36,Unranked,12,
+564,#29LPY9G20,inviteOnly,International,11,10705,6542,1200,always,1,123,Crystal League I,10,
+565,#2Q2G28CRV,open,International,5,18756,18576,400,always,3,42,Silver League II,36,Pусский
+566,#2PVQQRP08,inviteOnly,International,3,8090,7779,0,always,0,11,Bronze League I,17,English
+567,#G8R20VCJ,closed,Indonesia,12,6627,3565,0,always,0,236,Gold League III,10,Bahasa Indonesia
+568,#YJCPUGRQ,inviteOnly,Philippines,7,10365,8794,1100,always,0,92,Unranked,10,
+569,#2QQ2CJ2G2,closed,International,2,3551,2941,5500,always,1,10,Unranked,7,Bahasa Indonesia
+570,#C98QR0Q0,closed,Indonesia,6,11058,11390,600,always,0,68,Silver League I,22,Bahasa Indonesia
+571,#U29JLYCU,inviteOnly,International,14,8793,10067,1000,always,0,431,Gold League I,7,
+572,#2L2V9GUPU,inviteOnly,Kazakhstan,5,17667,15685,1000,always,0,18,Gold League II,28,Pусский
+573,#20CVGUCCV,inviteOnly,,7,10865,13165,0,always,0,68,Unranked,10,
+574,#2Q89UY2RC,inviteOnly,International,2,5493,6579,600,always,0,4,Unranked,6,Pусский
+575,#2G0PVRGPU,inviteOnly,Indonesia,2,4924,4557,0,always,0,5,Unranked,5,Bahasa Indonesia
+576,#2QR2RQ8Y0,inviteOnly,Iran,3,8170,7722,400,always,0,11,Unranked,10,فارسی
+577,#20J092208,closed,Philippines,8,5944,4717,5500,always,1,147,Bronze League III,6,
+578,#2Y9VUY2RR,inviteOnly,International,5,8893,10815,0,always,0,26,Silver League III,13,
+579,#2L8Q2YUVC,inviteOnly,France,5,15579,18240,0,always,0,35,Unranked,11,Français
+580,#20YL22UCC,open,India,6,22809,23819,2000,always,0,62,Bronze League II,26,English
+581,#PG8P9LPU,inviteOnly,Germany,11,9652,8902,2500,always,2,248,Unranked,14,Deutsch
+582,#2QQLJ2G2Y,open,Ukraine,2,3476,3905,200,always,0,8,Unranked,5,Pусский
+583,#2YUJPJRCC,closed,,4,12238,12597,5500,always,1,3,Unranked,13,
+584,#29Q89Q08R,inviteOnly,Nepal,7,18722,20167,1600,always,1,62,Silver League II,28,
+585,#LGGYRLUY,closed,Indonesia,7,9988,9823,0,always,2,80,Silver League III,10,Bahasa Indonesia
+586,#2LGQ92V0C,open,Türkiye,4,6555,8803,0,always,0,27,Silver League III,12,Türkçe
+587,#20U9LUVRG,inviteOnly,Indonesia,6,7345,9073,600,always,0,60,Silver League III,12,Bahasa Indonesia
+588,#2PQ88JG9P,inviteOnly,Czech Republic,6,9570,9698,0,always,2,49,Gold League I,12,
+589,#VQ2CG20P,inviteOnly,International,7,10342,9356,0,always,1,133,Bronze League I,45,
+590,#29QG28PG9,inviteOnly,India,6,11609,13275,0,always,0,42,Bronze League I,16,English
+591,#28URLYQ2J,inviteOnly,Russia,8,5142,6017,1000,always,1,153,Unranked,5,Pусский
+592,#RQQ89UQ9,inviteOnly,Indonesia,13,10715,4343,1400,always,3,211,Crystal League III,10,
+593,#2YCYCQPUR,closed,Indonesia,5,10969,12448,4000,always,0,36,Gold League III,15,Bahasa Indonesia
+594,#28QPQQRV0,inviteOnly,Malaysia,6,7450,6824,0,always,1,64,Gold League II,13,Bahasa Melayu
+595,#2LPPY9Q0Q,inviteOnly,Lebanon,3,5136,5806,2000,always,2,22,Unranked,6,العربية
+596,#RY0R20Y2,inviteOnly,Türkiye,10,10678,10248,0,always,1,93,Gold League III,8,
+597,#2Y8YUL0VY,closed,India,8,6536,5757,0,always,5,97,Silver League III,10,English
+598,#2YJG0PRLJ,inviteOnly,International,6,12606,14513,0,always,0,43,Silver League I,15,
+599,#2Q8ULJJLQ,inviteOnly,Vietnam,3,3942,3564,0,always,0,17,Unranked,6,Tiếng Việt
+600,#2YVYPPYY2,closed,International,3,6045,4528,5500,always,0,13,Unranked,10,Tiếng Việt
+601,#2LYGPR9VJ,inviteOnly,Indonesia,4,8170,5032,2100,always,1,25,Silver League I,15,Bahasa Indonesia
+602,#CJ80RUY,inviteOnly,Russia,6,8734,6766,200,always,0,70,Silver League I,10,
+603,#2QV02UJ0G,inviteOnly,Russia,4,8684,10088,0,always,2,25,Silver League I,15,Pусский
+604,#2L0GP2GP9,open,Russia,3,8816,10030,600,always,0,17,Unranked,15,Pусский
+605,#RC0Q2J8C,inviteOnly,Russia,19,34893,33519,2500,always,1,336,Crystal League I,35,
+606,#YYUUPRGU,inviteOnly,Bulgaria,23,31821,33860,4000,always,1,572,Crystal League I,27,English
+607,#2LV9CCVUU,inviteOnly,Russia,9,16426,17740,1100,always,1,61,Gold League III,18,Pусский
+608,#YQLJUQ8U,inviteOnly,Russia,21,32794,33255,2100,always,1,505,Crystal League I,34,Pусский
+609,#8928CC8U,inviteOnly,International,16,18389,18400,2500,always,2,389,Gold League I,15,Pусский
+610,#2LVCY9QYC,closed,International,5,5492,5825,400,always,0,32,Gold League III,6,Pусский
+611,#2Q9U8L8RP,open,Ukraine,3,7317,6189,1000,always,0,18,Gold League II,12,Pусский
+612,#28UCYPPYY,closed,Russia,4,7352,8183,5500,always,0,20,Unranked,6,
+613,#2QJRVLP88,inviteOnly,International,3,5025,5429,0,always,0,24,Silver League II,10,
+614,#J092QG8,inviteOnly,Russia,6,4318,2341,0,always,0,86,Bronze League III,10,
+615,#2YV2UL0RY,inviteOnly,Russia,11,22459,23611,2200,always,2,87,Gold League I,19,
+616,#2LJ2082V0,inviteOnly,,2,3447,3735,0,always,0,4,Unranked,6,
+617,#2QCC0CRGQ,open,International,3,6098,5120,800,always,0,18,Unranked,10,Pусский
+618,#2L0V0RG9G,inviteOnly,Ukraine,14,31130,31847,600,always,0,127,Crystal League I,32,
+619,#2PYGYYLLU,closed,Russia,8,4964,5542,400,always,0,42,Silver League I,5,Pусский
+620,#2QRY2VVUV,open,,2,3552,2749,0,always,0,6,Unranked,10,
+621,#GRUJQUR2,inviteOnly,Kyrgyzstan,8,8421,9745,800,always,3,144,Unranked,13,
+622,#2QVUU9Y8R,inviteOnly,Russia,3,7008,6735,0,always,0,11,Gold League III,13,Pусский
+623,#2G2CQ29UU,open,International,2,8270,9544,1200,always,1,7,Silver League II,17,Pусский
+624,#29PRGC8VV,inviteOnly,Russia,14,22705,25653,1000,always,1,181,Gold League I,32,
+625,#2QGRVPYYG,open,Uzbekistan,3,4231,4774,0,always,3,14,Unranked,6,Pусский
+626,#2G8VLV9P9,closed,,2,3045,3575,1000,always,0,5,Unranked,5,
+627,#2LCVP9C9G,open,International,7,13007,15698,600,always,0,59,Silver League I,24,Pусский
+628,#2YQGV0CVQ,closed,British Indian Ocean Territory,5,2848,4133,400,always,0,46,Silver League I,5,Tiếng Việt
+629,#2QVU2GQV2,closed,Russia,1,7352,10670,0,always,0,0,Silver League II,15,Pусский
+630,#2QQULR2V0,open,Russia,1,3761,4280,5500,always,1,1,Bronze League I,10,Pусский
+631,#2Q2QU2CY2,closed,,4,10948,13290,0,always,0,25,Silver League I,14,
+632,#J0LYJ8V9,closed,Russia,9,5555,5789,400,always,0,125,Silver League I,5,
+633,#2L2PLVQ9P,closed,Russia,5,10802,10777,4000,always,0,27,Unranked,7,Pусский
+634,#2QYQPPG2U,open,International,3,8274,9347,0,always,2,12,Unranked,12,Pусский
+635,#2QQGJQCVQ,open,,2,3794,3776,800,always,1,9,Unranked,5,
+636,#QL2RYRQQ,inviteOnly,Tajikistan,12,30227,30115,2000,always,3,181,Crystal League II,36,Pусский
+637,#2QGRPRR9R,inviteOnly,International,3,8356,8572,0,always,2,15,Unranked,8,
+638,#8CUGRP0V,inviteOnly,International,16,16358,18072,1900,always,0,345,Silver League II,35,
+639,#2Q2Y8LVJ8,open,Uzbekistan,3,8542,9477,0,always,0,15,Silver League I,13,Pусский
+640,#2YC2RRLJ9,inviteOnly,Kazakhstan,1,9154,7608,200,always,1,1,Unranked,10,
+641,#2QYQJ8YLL,open,Argentina,5,7437,8513,1000,always,0,26,Silver League II,18,
+642,#2P9VC2CYV,closed,International,8,8159,10229,0,always,0,149,Unranked,12,
+643,#2Q2VRUJ8Q,closed,Syria,7,7033,5444,0,always,3,32,Gold League II,12,العربية
+644,#2YR0JR98C,inviteOnly,,3,6822,6429,0,always,0,19,Unranked,11,
+645,#2QYQ9JQQQ,closed,International,4,5652,4819,400,always,0,13,Gold League III,10,العربية
+646,#QGVUY29L,closed,International,9,7356,6977,5500,always,3,149,Silver League I,12,
+647,#J8VC0J20,open,International,7,8951,10479,800,always,0,85,Silver League I,15,العربية
+648,#22GGQCPY0,closed,Syria,6,8414,9292,0,always,0,50,Silver League I,18,
+649,#2LJCR2QR8,closed,International,6,23600,25631,2200,always,1,27,Silver League II,42,العربية
+650,#R2P8CQGG,inviteOnly,International,9,8449,9242,1000,always,0,137,Gold League II,11,فارسی
+651,#2LQJG20L0,inviteOnly,International,3,3722,3238,0,always,0,27,Silver League I,5,فارسی
+652,#2LYV9J8GU,inviteOnly,International,4,10104,10924,0,always,0,10,Gold League II,13,العربية
+653,#2Q2GQ2GPP,inviteOnly,,3,17542,18469,200,always,0,6,Gold League III,32,
+654,#QRQR99YY,inviteOnly,International,12,12630,15419,0,always,1,346,Silver League III,23,
+655,#2QPPUL8C9,closed,Iraq,4,6306,5768,0,always,0,27,Silver League III,14,العربية
+656,#2QGJ0R0GG,closed,International,3,4869,4634,2500,always,4,17,Unranked,9,العربية
+657,#2QYUQJ90V,inviteOnly,International,3,11381,11500,1200,always,5,25,Unranked,12,العربية
+658,#2G0CJGRPU,inviteOnly,Egypt,4,9798,12431,400,always,0,15,Silver League I,15,العربية
+659,#29U0J2RC8,closed,Iraq,5,8848,8897,0,always,0,25,Silver League I,11,العربية
+660,#2LP9YRGCY,inviteOnly,Syria,9,6755,6935,2000,always,3,74,Gold League I,6,العربية
+661,#2G0V9J0Q8,inviteOnly,Iraq,3,14114,14542,0,always,1,8,Gold League II,17,
+662,#29QU89JUP,inviteOnly,,5,3421,4415,0,always,7,52,Silver League II,5,
+663,#CU9RQUQY,closed,Syria,7,5951,6937,1300,always,3,153,Unranked,10,English
+664,#UY82RPVV,inviteOnly,Jordan,3,8514,7602,0,always,3,12,Unranked,10,
+665,#2PJR2PV2R,inviteOnly,,4,13435,18461,2400,always,4,24,Unranked,12,
+666,#UJUCJRY8,inviteOnly,International,17,22884,24385,3000,always,0,231,Crystal League III,24,العربية
+667,#2L9JPUL0U,inviteOnly,International,4,3388,4434,0,always,0,25,Gold League III,5,العربية
+668,#2YYLRUP2J,open,International,2,7637,6000,1000,always,0,8,Silver League II,11,العربية
+669,#2YC9J0GCP,inviteOnly,Syria,6,4284,6806,5500,always,0,65,Unranked,5,العربية
+670,#V8UGG999,open,International,17,28876,30962,1200,always,0,213,Gold League I,48,العربية
+671,#UU9JC8J2,inviteOnly,International,6,9394,11132,1000,always,0,72,Silver League III,16,العربية
+672,#2LGJUY2QJ,open,Iran,2,6416,5941,2600,always,0,8,Unranked,5,فارسی
+673,#V08VLUGL,inviteOnly,International,7,11516,13635,600,always,0,82,Gold League III,23,
+674,#2Q8Y8JVQ2,closed,International,7,13159,13434,0,always,1,66,Gold League II,14,فارسی
+675,#CV2C9GU0,inviteOnly,Antarctica,9,16366,18585,600,always,2,127,Gold League III,25,
+676,#U28VLLJ8,closed,Iran,3,10292,10576,5500,always,3,21,Unranked,9,
+677,#20U2LJ80R,inviteOnly,Yemen,8,9578,7933,0,always,0,85,Silver League I,11,
+678,#QCJ0RYVL,closed,International,16,8905,10470,200,always,1,250,Gold League I,5,العربية
+679,#2LRG8G08V,inviteOnly,International,3,7924,10337,1400,always,1,13,Unranked,11,العربية
+680,#2LQQPUJUL,closed,Iran,5,8178,8067,0,always,1,30,Gold League II,10,فارسی
+681,#2PQQYL8YJ,inviteOnly,Iran,4,9784,11187,0,always,0,15,Silver League III,17,English
+682,#LYV8CRU9,inviteOnly,International,17,28433,33232,2000,always,0,236,Crystal League I,36,فارسی
+683,#8UCLUPJV,inviteOnly,Iraq,10,10179,5409,0,always,2,132,Gold League III,16,
+684,#2G9GJ9VU2,open,,1,1782,2114,0,always,1,2,Unranked,5,
+685,#2YCQP0UGY,inviteOnly,International,6,7308,7265,1000,always,0,44,Silver League I,10,English
+686,#CVQ099VC,closed,Iran,8,10137,8469,1000,always,2,121,Bronze League I,17,فارسی
+687,#YU0CQ222,inviteOnly,Iraq,16,21588,17571,200,always,0,312,Gold League II,40,العربية
+688,#8LPUYJL2,inviteOnly,International,9,8587,7813,1500,always,1,104,Bronze League I,11,
+689,#2PLCJLJC0,inviteOnly,International,6,14562,15868,200,always,0,80,Silver League III,27,
+690,#YYR0UCR0,open,International,11,22272,23030,1400,always,3,138,Crystal League III,26,العربية
+691,#U92QG0R2,closed,Egypt,8,5366,5533,1200,always,0,90,Silver League II,10,
+692,#L2U08UV0,inviteOnly,International,13,10772,9678,0,always,4,309,Gold League III,10,
+693,#UC9LLP9V,inviteOnly,International,10,5071,4912,0,always,3,97,Gold League I,5,فارسی
+694,#RRG2V8YJ,closed,Andorra,6,7574,7844,5500,always,0,79,Gold League III,13,
+695,#PYQ0VVLC,inviteOnly,Kuwait,15,15075,16615,2000,always,0,298,Gold League II,13,
+696,#2P0P2J998,inviteOnly,International,4,11296,12521,0,always,0,34,Gold League III,21,
+697,#2LL808PC0,inviteOnly,Australia,1,7127,7841,0,always,0,0,Unranked,10,English
+698,#2LPVQGRCV,closed,International,3,5757,7383,5500,always,0,20,Unranked,10,
+699,#CYYQJ8VQ,inviteOnly,Syria,11,19373,19612,0,always,0,50,Gold League I,19,
+700,#QUJCP2V9,inviteOnly,International,17,20883,22279,200,always,3,322,Crystal League I,26,فارسی
+701,#2YC9RQGRY,inviteOnly,International,7,6468,5631,0,always,0,40,Gold League II,6,فارسی
+702,#2QUV8Q8RV,inviteOnly,,2,10459,10401,800,always,0,4,Unranked,12,
+703,#PVRQYY2R,closed,International,15,10431,11723,0,always,2,365,Crystal League I,13,فارسی
+704,#2Q0LGCR0L,inviteOnly,Iran,8,22267,19832,1000,always,0,31,Crystal League II,20,فارسی
+705,#2YC8U8LJ8,closed,International,4,11120,13859,2100,always,1,13,Silver League II,24,العربية
+706,#U9YRYR0P,inviteOnly,Iraq,5,8454,7355,0,always,5,49,Unranked,14,العربية
+707,#2QVQLUG2U,inviteOnly,International,2,3119,3554,400,always,2,4,Unranked,6,العربية
+708,#QC00CRY8,inviteOnly,International,9,9218,8549,0,always,0,134,Gold League III,10,العربية
+709,#C9QCJQQC,inviteOnly,Afghanistan,6,7164,8074,200,always,0,71,Silver League III,12,
+710,#UCYUJLJU,closed,International,5,9784,9969,0,always,1,55,Bronze League I,22,
+711,#2PLPVL2Q9,inviteOnly,International,5,8746,9763,200,always,3,45,Silver League I,13,
+712,#2Q2GVV2C2,inviteOnly,Russia,2,8944,9234,0,always,2,9,Unranked,10,العربية
+713,#28LGG2VCL,inviteOnly,International,6,13525,14147,0,always,0,41,Gold League III,19,العربية
+714,#2YQVLQLUL,inviteOnly,International,3,3785,4417,0,always,2,20,Unranked,11,فارسی
+715,#2Q9QGUC80,open,International,3,10005,10131,800,always,0,4,Silver League I,19,العربية
+716,#2Q8JV9C20,inviteOnly,Palestine,5,12379,12535,200,always,0,59,Silver League II,18,العربية
+717,#22JC0P8Y2,open,Iran,8,8598,10374,1500,always,0,131,Silver League II,13,فارسی
+718,#8R02L88L,inviteOnly,Iran,9,7378,8992,200,always,0,142,Bronze League I,13,
+719,#GYLUVL2J,inviteOnly,Syria,11,15855,17474,0,always,1,176,Silver League I,33,العربية
+720,#QUQ898VL,inviteOnly,International,7,10734,6200,0,always,1,100,Silver League III,15,
+721,#2Q2R89YYY,inviteOnly,Iran,4,6740,5795,1300,always,0,25,Silver League II,6,فارسی
+722,#2QGJGYUU8,closed,International,2,3445,3542,200,always,0,3,Unranked,10,فارسی
+723,#U0PLY82G,inviteOnly,Türkiye,7,7292,6455,0,always,0,99,Silver League III,11,
+724,#2Y2YCQ0GG,inviteOnly,Oman,4,6371,8413,1200,always,0,20,Silver League II,12,العربية
+725,#JL8Q8JPR,closed,Iraq,10,15998,13449,0,always,0,158,Gold League I,18,
+726,#P2YRUYUG,inviteOnly,Iran,5,9516,10983,0,always,1,18,Gold League III,11,
+727,#P29Q2VL8,closed,Iran,10,11036,12220,0,always,2,172,Gold League II,18,فارسی
+728,#2QCP09JJ8,inviteOnly,International,4,9304,9328,1000,always,1,26,Silver League II,10,فارسی
+729,#2PG028GVQ,inviteOnly,Saudi Arabia,5,5828,6336,5500,always,8,33,Silver League I,5,العربية
+730,#2LR0GY9G0,inviteOnly,Iraq,5,6509,5936,200,always,0,50,Unranked,5,العربية
+731,#2PJCP9UQY,inviteOnly,Iran,5,4011,4150,200,always,9,79,Unranked,5,English
+732,#2Q9JLLPGJ,inviteOnly,International,4,9353,8892,1000,always,3,19,Unranked,10,فارسی
+733,#2G2U29YLY,closed,Iran,3,4115,4370,600,always,0,13,Unranked,5,فارسی
+734,#220RC0YY0,closed,International,13,34205,30118,1000,always,5,150,Crystal League II,50,English
+735,#2PRP9VLPV,inviteOnly,International,8,10869,12401,4000,always,0,43,Gold League III,13,
+736,#2QQVRG08Y,inviteOnly,International,2,4152,3793,200,always,2,8,Unranked,5,العربية
+737,#L90JCL8V,closed,Iraq,7,8971,8621,2000,always,2,74,Unranked,10,
+738,#9UUGPRY,inviteOnly,International,9,13684,12042,2000,always,0,138,Unranked,11,العربية
+739,#2Q8U00J08,inviteOnly,International,5,15845,18630,600,always,1,21,Silver League II,44,فارسی
+740,#2LRLL8R0U,inviteOnly,Iran,5,10771,9670,400,always,5,48,Silver League II,11,English
+741,#GQ8QYQLG,closed,International,14,15880,14838,600,always,0,317,Crystal League III,23,
+742,#2QV9PG9R8,open,International,3,10335,10932,1000,always,2,8,Silver League II,17,العربية
+743,#29QU8UUGL,closed,Yemen,6,7341,8293,200,always,6,63,Unranked,5,
+744,#LPUV9QQU,inviteOnly,Saudi Arabia,6,9658,9854,0,always,1,59,Unranked,11,
+745,#YCJJ9RR8,inviteOnly,International,18,20013,19030,2000,always,2,316,Gold League I,26,العربية
+746,#2L8Y8VV0Y,open,Syria,2,15371,16536,0,always,0,2,Silver League I,30,العربية
+747,#292LLGUVV,open,Iran,5,8151,10339,200,always,1,33,Gold League III,13,
+748,#2QCVYJLQR,closed,,3,8286,9695,0,always,1,12,Unranked,11,
+749,#2G2Y9PC02,open,,2,12354,13948,0,always,0,3,Gold League II,25,
+750,#229YQJLYJ,inviteOnly,Iran,4,6994,8400,0,always,0,31,Silver League III,10,
+751,#Y0Q09VRJ,inviteOnly,Iran,22,32585,26276,0,always,11,847,Master League III,39,English
+752,#V2GYY99P,inviteOnly,International,4,7452,3965,0,always,0,15,Gold League III,13,العربية
+753,#22GJVCVPP,inviteOnly,International,6,11268,11177,200,always,0,47,Silver League I,16,English
+754,#JQPVUYC8,closed,International,4,8260,6138,0,always,0,34,Unranked,14,
+755,#QQQPGJPR,closed,Iran,10,6457,2585,5500,always,0,178,Silver League II,11,فارسی
+756,#GLLCGJY0,inviteOnly,China,12,14784,14749,3400,always,8,226,Gold League I,10,فارسی
+757,#PPRCPUV8,inviteOnly,Iran,7,6319,6054,0,always,0,84,Silver League II,14,فارسی
+758,#28G2G9UY9,inviteOnly,International,13,5897,6545,0,always,3,144,Gold League II,11,فارسی
+759,#8JPV8LQV,inviteOnly,International,17,11309,10692,3000,always,0,412,Crystal League III,10,فارسی
+760,#LYVCJ2VQ,closed,Iran,8,10527,6523,600,always,0,133,Unranked,10,
+761,#2YYPVJUCQ,closed,International,7,7623,8136,2000,always,0,56,Gold League II,12,فارسی
+762,#CUQ2GY0L,inviteOnly,India,4,13572,15098,0,always,2,36,Unranked,14,
+763,#2Y2QYP2LG,inviteOnly,Thailand,3,6213,5280,400,always,1,15,Unranked,5,
+764,#2Y9JVCC9P,inviteOnly,,2,7949,3213,0,always,0,4,Unranked,10,
+765,#28C2UUU8G,closed,International,10,14102,11201,0,always,0,151,Silver League I,44,English
+766,#CC9G0V0Y,inviteOnly,Myanmar (Burma),10,10240,10962,0,always,0,134,Gold League III,11,
+767,#208LGRLUG,inviteOnly,Myanmar (Burma),8,11783,13479,0,always,0,90,Silver League III,17,
+768,#2G09LGQ22,inviteOnly,,2,2255,313,0,always,0,7,Unranked,10,日本語
+769,#2YJ2V9C0J,inviteOnly,Indonesia,2,4824,3739,1000,always,0,3,Unranked,5,Bahasa Indonesia
+770,#2QGRVGRYU,closed,Philippines,9,8691,8500,4200,always,0,75,Gold League III,13,English
+771,#2Q2R0G22J,inviteOnly,Philippines,2,5199,3670,1000,always,0,7,Unranked,12,English
+772,#C02GCPR8,inviteOnly,Philippines,6,7314,3471,5500,always,0,85,Silver League III,13,
+773,#2YQGJVLQ0,inviteOnly,Vietnam,3,7416,7617,1000,always,0,16,Unranked,10,Tiếng Việt
+774,#2LGG2QG0G,closed,Philippines,4,3390,688,0,always,0,31,Unranked,5,English
+775,#CYQ80Y98,inviteOnly,Iran,14,16751,19601,0,always,0,236,Gold League II,16,فارسی
+776,#2Q802QLRC,closed,Indonesia,3,7685,89,200,always,3,8,Silver League I,12,Bahasa Indonesia
+777,#P2PCG002,closed,International,9,10164,12980,1000,always,1,178,Unranked,9,Bahasa Indonesia
+778,#QRLVQG89,inviteOnly,Türkiye,8,6275,4266,0,always,0,152,Silver League III,6,
+779,#2QLYUP0PQ,inviteOnly,,2,4754,6420,600,always,0,4,Unranked,7,
+780,#2QLLC0YYG,closed,Myanmar (Burma),3,7053,6940,5500,always,0,19,Unranked,5,English
+781,#2QCUR0CLG,inviteOnly,International,2,5400,5128,800,always,0,8,Unranked,6,العربية
+782,#JLL9P2CC,inviteOnly,International,7,5613,5010,0,always,1,118,Unranked,10,
+783,#20GU0RRR8,inviteOnly,International,12,9872,11306,1500,always,0,68,Gold League III,11,Español
+784,#GLJQCRRV,inviteOnly,France,8,15960,14545,1000,always,0,135,Silver League I,16,
+785,#2G0YU0CJG,inviteOnly,India,2,2349,2688,800,always,0,5,Unranked,5,English
+786,#2P0RP22VJ,inviteOnly,International,10,11418,9594,0,always,0,68,Gold League II,11,
+787,#2QUGGC089,inviteOnly,International,1,7497,8489,1200,always,0,1,Unranked,11,Pусский
+788,#2L8L2J2J8,closed,Azerbaijan,2,4319,2958,5500,always,0,4,Unranked,6,Türkçe
+789,#RGJ9P8RP,closed,Egypt,10,14059,16188,2000,always,0,126,Gold League I,15,العربية
+790,#U00UJRQP,inviteOnly,International,10,9079,9058,1800,always,0,96,Gold League I,11,English
+791,#R9LLJV08,inviteOnly,Philippines,15,11303,12633,200,always,1,484,Unranked,12,
+792,#2QLV09YVJ,inviteOnly,International,2,5146,4106,0,always,9,11,Unranked,10,Bahasa Indonesia
+793,#28GG8UJUC,open,Afghanistan,9,12434,12975,600,always,10,93,Gold League II,18,فارسی
+794,#R0JQLYYU,inviteOnly,International,9,7284,6925,0,always,1,160,Silver League III,20,
+795,#2PC0LQJPC,closed,Philippines,2,7835,10193,0,always,0,3,Unranked,10,
+796,#2820RY9U2,closed,International,14,11835,11304,0,always,2,165,Master League III,12,العربية
+797,#2Y8VJ0RGR,closed,International,6,11069,10902,600,always,0,40,Silver League I,12,فارسی
+798,#2QYLUY9C0,inviteOnly,India,2,7023,3824,600,always,0,5,Unranked,7,English
+799,#2P0V99QY8,inviteOnly,,5,12211,11819,0,always,0,61,Gold League III,18,English
+800,#2LLRL0C82,inviteOnly,Philippines,4,12666,13231,800,always,0,31,Gold League III,18,
+801,#2Q9CJ0J2Q,closed,Philippines,5,9894,4268,2600,always,0,13,Crystal League III,15,English
+802,#2Y0GRPP8V,inviteOnly,Russia,8,9787,12265,1500,always,0,84,Silver League II,10,Pусский
+803,#2LP2LVPGP,closed,Indonesia,7,9006,7759,0,always,4,43,Gold League II,13,Bahasa Indonesia
+804,#22C8LPJL8,closed,Philippines,8,10294,2916,0,always,0,92,Gold League II,32,
+805,#2QU9PLYC9,inviteOnly,Iran,4,16058,12453,200,always,1,11,Crystal League II,12,فارسی
+806,#2YJ8VQ82U,inviteOnly,International,4,9497,7594,0,always,0,18,Silver League II,15,Español
+807,#2YVCRYRVV,inviteOnly,Japan,5,5852,8951,1000,always,0,41,Unranked,5,
+808,#2PRRRQ90Y,inviteOnly,Japan,9,6882,8835,0,always,0,192,Unranked,11,
+809,#PJRL0RGY,open,India,17,5380,5550,2000,always,0,367,Gold League III,6,
+810,#2QLGY9PUQ,inviteOnly,International,3,17017,19123,0,always,11,16,Gold League III,23,简体中文
+811,#2QQGPPQGU,inviteOnly,Japan,2,5272,4206,0,always,0,5,Unranked,5,日本語
+812,#2QL2RU8R9,open,International,4,12822,12883,5500,always,0,10,Silver League II,16,English
+813,#2G2JG0YUV,inviteOnly,Malaysia,3,7731,9239,0,always,0,12,Unranked,13,简体中文
+814,#PJ9Q8LCG,inviteOnly,International,10,7864,6207,0,always,1,185,Bronze League I,23,
+815,#RCG9R09C,inviteOnly,Taiwan,16,25969,29183,200,always,2,351,Crystal League III,42,繁體中文
+816,#2YQ2GJLVC,closed,China,4,7048,3272,0,always,0,24,Silver League III,15,
+817,#9YQ9L88V,inviteOnly,International,10,5133,3911,0,always,5,197,Unranked,5,
+818,#PCJVC0Q,closed,International,11,15667,17340,5000,always,1,212,Unranked,13,
+819,#L0GGU08P,inviteOnly,China,12,15933,15584,0,always,0,191,Gold League I,16,简体中文
+820,#YQRVGUYU,inviteOnly,Malaysia,10,14152,16560,1000,always,1,203,Crystal League II,13,
+821,#282VL2U8L,inviteOnly,Taiwan,5,3684,4090,0,always,3,61,Unranked,5,繁體中文
+822,#G89LCPJ2,inviteOnly,Sudan,22,17390,17433,2500,always,7,418,Master League II,19,العربية
+823,#2QJJ2YRVP,closed,International,1,5852,5223,0,always,0,0,Unranked,5,English
+824,#2LJL2V9V9,inviteOnly,,2,4679,5445,0,always,0,3,Unranked,5,English
+825,#J29G0L9L,inviteOnly,South Korea,14,17583,22406,1500,always,2,155,Crystal League II,16,
+826,#LVLG8CYQ,inviteOnly,South Korea,3,6164,5979,0,always,2,24,Unranked,5,
+827,#L9YUGJ0L,inviteOnly,South Korea,12,15806,15365,0,always,2,146,Crystal League I,18,한국어
+828,#2Q88G0V0P,inviteOnly,,3,8770,7212,0,always,0,11,Unranked,6,
+829,#Y92L2PVU,inviteOnly,International,12,13312,9927,2000,always,0,322,Silver League II,21,
+830,#28LY2Q8CG,closed,South Korea,17,4599,3656,5500,always,0,119,Master League III,5,한국어
+831,#2QV0YGJUU,closed,Iraq,3,11659,8990,0,always,0,13,Gold League II,14,العربية
+832,#2LGR8CVY2,closed,Indonesia,5,14089,7588,0,always,1,49,Silver League I,22,Bahasa Indonesia
+833,#2LUPRCJC0,inviteOnly,Türkiye,3,8905,9248,0,always,0,19,Unranked,13,Türkçe
